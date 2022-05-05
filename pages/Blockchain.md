@@ -1,0 +1,2 @@
+- Bitcoin enable a decentralized system for exchange of value
+- Validation, Verification, Immutable Recording, and _____ lead to Trust and Security.
