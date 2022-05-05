@@ -1,4 +1,4 @@
 - ## Introduction
-- Bitcoin enable a decentralized system for exchange of value
-- Validation, Verification, Immutable Recording, and consensus lead to Trust and Security.
+-
+-
 -
