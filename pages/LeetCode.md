@@ -6,4 +6,5 @@
 	- Stack<Pair<Character, Integer>> st = new Stack<>();
 	- this statement created a stack with key and value pair.
 	- [[Approach]]
-		- .
+		-
+		- [RemoveAllAdjacentDuplicatesInString2.java](../assets/RemoveAllAdjacentDuplicatesInString2_1651832115033_0.java)
