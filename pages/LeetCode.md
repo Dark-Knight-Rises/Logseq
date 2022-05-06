@@ -5,4 +5,5 @@
 	- how to use Pair class in [[Java]] .
 	- Stack<Pair<Character, Integer>> st = new Stack<>();
 	- this statement created a stack with key and value pair.
-	-
+	- [[Approach]]
+		-
