@@ -6,5 +6,6 @@
 	- Stack<Pair<Character, Integer>> st = new Stack<>();
 	- this statement created a stack with key and value pair.
 	- [[Approach]]
-		-
+		- it would be easy if hashmaps could be applied
+		- but stack cannot have mulyi
 		- [RemoveAllAdjacentDuplicatesInString2.java](../assets/RemoveAllAdjacentDuplicatesInString2_1651832115033_0.java)
