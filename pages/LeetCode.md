@@ -2,6 +2,7 @@
 	- [[Question]]: Remove All Adjacent Duplicates in String II
 	- how to use Pair class in [[Java]] .
 	- Stack<Pair<Character, Integer>> st = new Stack<>();
-	- this statement created a stack
+	- this statement created a stack with key and value pair.
+	-
 	-
 	-
