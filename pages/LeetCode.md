@@ -7,5 +7,7 @@
 	- this statement created a stack with key and value pair.
 	- [[Approach]]
 		- it would be easy if hashmaps could be applied
-		- but stack cannot have mulyi
+		- but stack cannot have multiple arguments so i created pair class
+		- Pair has two arguments for this. first can be retrieved using st.getKey()
+		- second
 		- [RemoveAllAdjacentDuplicatesInString2.java](../assets/RemoveAllAdjacentDuplicatesInString2_1651832115033_0.java)
