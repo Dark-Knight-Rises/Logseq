@@ -12,5 +12,6 @@
 		- Pair has two arguments for this. first can be retrieved using st.getKey()
 		- second the integer with st.getValue()
 		- taking the stack's top and incrementing it by one every time the same character is encountered.
-		- if the value
+		- if the value gets equal to 'k' pop the value.
+		- at last just return the string by taking each character and adding up the freq
 		- [RemoveAllAdjacentDuplicatesInString2.java](../assets/RemoveAllAdjacentDuplicatesInString2_1651832115033_0.java)
