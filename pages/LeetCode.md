@@ -1,2 +1,2 @@
 - [[What I Learned]]
-	- how to use Pair
+	- how to use Pair class in java
