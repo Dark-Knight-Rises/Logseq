@@ -7,10 +7,10 @@
 	- Stack<Pair<Character, Integer>> st = new Stack<>();
 	- this statement created a stack with key and value pair.
 	- [[Approach]]
-	  collapsed:: true
 		- it would be easy if hashmaps could be applied
 		- but stack cannot have multiple arguments so i created pair class
 		- Pair has two arguments for this. first can be retrieved using st.getKey()
 		- second the integer with st.getValue()
-		-
+		- taking the stack's top and incrementing it by one every time the same character is encountered.
+		- if the value
 		- [RemoveAllAdjacentDuplicatesInString2.java](../assets/RemoveAllAdjacentDuplicatesInString2_1651832115033_0.java)
