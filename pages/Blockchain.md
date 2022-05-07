@@ -8,4 +8,6 @@
 	- we call this a Public Ledger.
 		- a database of "historical information" available to everyone.
 		- Example: say, the historical info if of banking transactions, the old transactions are used to validate the new transactions.
+		- We need to ensure a no. of different aspects in this public ledger.
+			-
 - the system ensures consistency among the local copies.
