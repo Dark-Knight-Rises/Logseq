@@ -4,6 +4,9 @@
  {:block/name "approach",
   :block/created-at 1651831906315,
   :block/updated-at 1651831906315}
+ {:block/name "arrays",
+  :block/created-at 1651927130343,
+  :block/updated-at 1651927130343}
  {:block/name "b",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -16,6 +19,9 @@
  {:block/name "contents",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
+ {:block/name "data structures and algorithms",
+  :block/created-at 1651926582475,
+  :block/updated-at 1651928432181}
  {:block/name "doing",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -45,10 +51,10 @@
   :block/updated-at 1651765666507}
  {:block/name "may 6th, 2022",
   :block/created-at 1651778503680,
-  :block/updated-at 1651911537385}
+  :block/updated-at 1651928570798}
  {:block/name "may 7th, 2022",
   :block/created-at 1651911450138,
-  :block/updated-at 1651911599710}
+  :block/updated-at 1651926232245}
  {:block/name "now",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
