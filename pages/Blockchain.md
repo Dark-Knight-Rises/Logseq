@@ -10,5 +10,6 @@
 		- Example: say, the historical info if of banking transactions, the old transactions are used to validate the new transactions.
 		- We need to ensure a no. of different aspects in this public ledger.
 			- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
-			-
+			- Consensus: ensure that the local copies are consistent and updated.
+			- Security: the data needs to be tamper proof. note that the clients may act maliciosly
 - the system ensures consistency among the local copies.
