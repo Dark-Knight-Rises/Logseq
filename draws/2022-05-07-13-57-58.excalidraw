@@ -6,10 +6,10 @@
     {
       "id": "XgI2tdxwWh3ihsN3V1B8i",
       "type": "text",
-      "x": 209.20001220703125,
-      "y": 319.40000915527344,
-      "width": 82,
-      "height": 25,
+      "x": 19.600006103515625,
+      "y": 333,
+      "width": 184.40002441406253,
+      "height": 56.21951963843371,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -21,16 +21,60 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "seed": 1039024067,
-      "version": 3,
-      "versionNonce": 1312247651,
+      "version": 136,
+      "versionNonce": 1159992643,
       "isDeleted": false,
-      "boundElementIds": null,
+      "boundElementIds": [
+        "CXm_4FHly7RpzlKbW8TVs"
+      ],
       "text": "[3,1,4,2]",
-      "fontSize": 20,
+      "fontSize": 44.97561571074696,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18
+      "baseline": 39.21951963843371
+    },
+    {
+      "id": "CXm_4FHly7RpzlKbW8TVs",
+      "type": "arrow",
+      "x": 180.39999389648438,
+      "y": 397.20001220703125,
+      "width": 0,
+      "height": 72.79998779296875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 802441037,
+      "version": 37,
+      "versionNonce": 1833065997,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          72.79998779296875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "XgI2tdxwWh3ihsN3V1B8i",
+        "focus": -0.7440343438556074,
+        "gap": 7.980492568597555
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
     }
   ],
   "appState": {
