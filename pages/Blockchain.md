@@ -1,1 +1,2 @@
-- A decentralized computation and information
+- A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust ea
+-
