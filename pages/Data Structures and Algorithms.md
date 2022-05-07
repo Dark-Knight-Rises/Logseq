@@ -7,5 +7,5 @@
 		- The main memory contains 3. Sections. The first is the code execution section, the second is the Stack section and the third is the heap section.
 		- Program cannot access the heap memory directly.
 		- Every variable that is created is created inside the stack section.
-	- Abstract Data Type Array
+	- Abstract Data Type (ADT) Array
 		-
