@@ -3,5 +3,6 @@
 	- Program cannot access the heap memory directly.
 	- Every variable that is created is created inside the stack section.
 	- Arrays
-		- Arrays are called vector variables, whereas the normal. Primitive types. Are the scalar variables.
+		- Arrays are called vector variables, whereas the normal variables are called the scalar variables.
+		- Arrays can be of two types. The static and the dynamic array.
 		-
