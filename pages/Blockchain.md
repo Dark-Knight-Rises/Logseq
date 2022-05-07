@@ -21,4 +21,5 @@
 			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 - the system ensures consistency among the local copies.
 - Coursera
-	-
+	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}}
+	- The algorithm for consensus in the Bitcoin blockchain is called {{cloze }} protocol.
