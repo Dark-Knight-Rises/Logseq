@@ -9,5 +9,6 @@
 		- a database of "historical information" available to everyone.
 		- Example: say, the historical info if of banking transactions, the old transactions are used to validate the new transactions.
 		- We need to ensure a no. of different aspects in this public ledger.
-			- Protocols for commitment: ensure
+			- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
+			-
 - the system ensures consistency among the local copies.
