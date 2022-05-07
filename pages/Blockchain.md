@@ -24,7 +24,7 @@
   card-last-score:: 1
 - Every node maintains a local copy of the global data-sheet.
 	- we call this a Public Ledger.
-		- a database of "historical information" available to everyone is called {{cloze public ledger}} .
+		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
 		- Example: say, the historical info if of banking transactions, the old transactions are used to validate the new transactions.
 		- We need to ensure a no. of different aspects in this public ledger.
 			- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
@@ -33,6 +33,6 @@
 			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 - the system ensures consistency among the local copies.
 - Coursera
-	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}}
-	- The algorithm for consensus in the Bitcoin blockchain is called {{cloze Proof of Work}} protocol.
+	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
+	- The algorithm for consensus in the Bitcoin blockchain is called {{cloze Proof of Work}} protocol. #card
 	- Transaction 0 in every block in the bitcoin blockchain {{cloze is called the coinbase transaction, does not have any input UTXO and is for paying the miner fees.}}
