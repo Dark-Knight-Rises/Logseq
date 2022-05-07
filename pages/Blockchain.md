@@ -45,6 +45,7 @@
 			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 - the system ensures consistency among the local copies.
 - Coursera
+	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
 	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
 	  card-repeats:: 1
