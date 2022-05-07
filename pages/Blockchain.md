@@ -70,5 +70,4 @@
 	- What/Who are miners in a blockchain? {{cloze Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks }} #card
 	- What are UTXOs in a Bitcoin 
 	  Blockchain? {{cloze These form the inputs and outputs for transactions  }} #card
-	-
--
+	- What is the genesis block? {{cloze The first block of a Blockchain}} #card
