@@ -3,4 +3,4 @@
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
-- [#C] Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card
+- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
