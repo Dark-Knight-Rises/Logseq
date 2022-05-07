@@ -67,3 +67,4 @@
 	  card-next-schedule:: 2022-05-08T18:30:00.000Z
 	  card-last-reviewed:: 2022-05-07T20:19:49.456Z
 	  card-last-score:: 1
+	- What/Who are miners in a blockchain?
