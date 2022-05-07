@@ -5,4 +5,6 @@
 	- Distributed: everyone collectively execute the job
 - Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
 - Every node maintains a local copy of the global data-sheet.
+	- we call this a Public Ledger.
+		-
 - the system ensures consistency among the local copies.
