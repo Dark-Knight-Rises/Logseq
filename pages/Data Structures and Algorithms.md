@@ -5,4 +5,5 @@
 	- Arrays
 		- Arrays are called vector variables, whereas the normal variables are called the scalar variables.
 		- Arrays can be of two types. The static and the dynamic array.
-		-
+		- In the static array, the size of the array is known beforehand and therefore it is created inside the stack section of the memory.
+		- Whereas in the dynamic array the size of the array is not known beforehand and therefore it is created in the heap section of the memory.
