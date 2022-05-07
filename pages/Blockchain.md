@@ -3,3 +3,4 @@
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
+- A decentra
