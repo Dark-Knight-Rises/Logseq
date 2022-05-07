@@ -1,6 +1,10 @@
 - A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust each other, to cooperate, coordinate and collaborate in a rational decision making process. #defination #card
 - A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination
 	- open: accesible to all
+	- distributed: no single party control
+	- efficient: fast and scalable
+	- verifiable: everyone can check the validity of information.
+	- perma
 - Centralized vs Decentralized vs Distributed architectures
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
