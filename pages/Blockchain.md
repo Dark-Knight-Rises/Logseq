@@ -6,6 +6,12 @@
   card-last-reviewed:: 2022-05-07T20:16:31.490Z
   card-last-score:: 1
 - A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2022-05-08T18:30:00.000Z
+  card-last-reviewed:: 2022-05-07T20:20:39.031Z
+  card-last-score:: 1
 	- open: accesible to all
 	- distributed: no single party control
 	- efficient: fast and scalable
@@ -34,5 +40,23 @@
 - the system ensures consistency among the local copies.
 - Coursera
 	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-11T20:20:09.538Z
+	  card-last-reviewed:: 2022-05-07T20:20:09.538Z
+	  card-last-score:: 5
 	- The algorithm for consensus in the Bitcoin blockchain is called {{cloze Proof of Work}} protocol. #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-11T20:19:58.140Z
+	  card-last-reviewed:: 2022-05-07T20:19:58.140Z
+	  card-last-score:: 5
 	- Transaction 0 in every block in the bitcoin blockchain {{cloze is called the coinbase transaction, does not have any input UTXO and is for paying the miner fees.}} #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2022-05-08T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-07T20:19:49.456Z
+	  card-last-score:: 1
