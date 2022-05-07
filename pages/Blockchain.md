@@ -1,2 +1,2 @@
 - A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust each other, to cooperate, coordinate and collaborate in a rational decision making process. #defination #card
--
+- Centralized vs Decentralized vs D
