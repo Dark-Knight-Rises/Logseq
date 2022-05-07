@@ -1,3 +1,5 @@
 - A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust each other, to cooperate, coordinate and collaborate in a rational decision making process. #defination #card
 - Centralized vs Decentralized vs Distributed architectures
-	- Complete reliance on single point
+	- Centralized: complete reliance on single point. it is not safe
+	- Decentralized: multiple points of coordination.
+	- Distributed: everyone
