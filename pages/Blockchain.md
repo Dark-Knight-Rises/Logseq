@@ -4,7 +4,7 @@
 	- distributed: no single party control
 	- efficient: fast and scalable
 	- verifiable: everyone can check the validity of information.
-	- perma
+	- permanent: the info is persistent
 - Centralized vs Decentralized vs Distributed architectures
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
