@@ -1,2 +1,1 @@
-- Validation, Verification, Immutable Recording, and consensus lead to Trust and Security.
-- Bitcoin enabled a {{cloze decentralized system}} for exchange of value
+-
