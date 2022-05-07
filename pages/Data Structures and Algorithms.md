@@ -2,7 +2,7 @@
 	- The main memory contains 3. Sections. The first is the code execution section, the second is the Stack section and the third is the heap section.
 	- Program cannot access the heap memory directly.
 	- Every variable that is created is created inside the stack section.
-	- Arrays
+	- [[Arrays]]
 		- Arrays are called vector variables, whereas the normal variables are called the scalar variables.
 		- Arrays can be of two types. The static and the dynamic array.
 		- In the static array, the size of the array is known beforehand and therefore it is created inside the stack section of the memory.
