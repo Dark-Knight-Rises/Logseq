@@ -2,4 +2,5 @@
 	- Arrays are called vector variables, whereas the normal. Primitive types. Are the scalar variables.
 - [[What I Learned]]
 	- The main memory contains 3. Sections. The first is the code execution section, the second is the Stack section and the third is the heap section.
-	-
+	- Program cannot access the heap memory directly.
+	- Every variable that is created is created inside the stack section.
