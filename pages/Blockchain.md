@@ -7,5 +7,5 @@
 - Every node maintains a local copy of the global data-sheet.
 	- we call this a Public Ledger.
 		- a database of "historical information" available to everyone.
-		- Example: saym
+		- Example: say, the historical info if of banking transactions, the old transactions are used to validate the new transactions.
 - the system ensures consistency among the local copies.
