@@ -1,2 +1,4 @@
 - Arrays
 	- Arrays are called vector variables, whereas the normal. Primitive types. Are the scalar variables.
+- [[What I Learned]]
+	-
