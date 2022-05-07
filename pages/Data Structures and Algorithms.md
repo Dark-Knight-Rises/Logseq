@@ -8,4 +8,5 @@
 		- Program cannot access the heap memory directly.
 		- Every variable that is created is created inside the stack section.
 	- Abstract Data Type (ADT) Array
-		-
+		- Abstract data type means the representation of the data as well as some operations on that data.
+		- The operations include display, add, append, insert, delete, search, get, SET Max, Min. Reverse, shift, rotate.
