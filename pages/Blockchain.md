@@ -11,5 +11,6 @@
 		- We need to ensure a no. of different aspects in this public ledger.
 			- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
 			- Consensus: ensure that the local copies are consistent and updated.
-			- Security: the data needs to be tamper proof. note that the clients may act maliciosly
+			- Security: the data needs to be tamper proof. note that the clients may act maliciously or can be compromised.
+			- Privacy and Authenticity: the data (or transactions) belong to various clients a
 - the system ensures consistency among the local copies.
