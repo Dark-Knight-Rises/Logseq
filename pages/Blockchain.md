@@ -2,8 +2,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-08T18:30:00.000Z
-  card-last-reviewed:: 2022-05-07T20:16:31.490Z
+  card-next-schedule:: 2022-05-09T18:30:00.000Z
+  card-last-reviewed:: 2022-05-08T19:19:47.549Z
   card-last-score:: 1
 - A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination #card
   card-last-interval:: 4
@@ -22,12 +22,12 @@
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-08T18:30:00.000Z
-  card-last-reviewed:: 2022-05-07T20:16:14.581Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-05-12T19:20:20.412Z
+  card-last-reviewed:: 2022-05-08T19:20:20.412Z
+  card-last-score:: 5
 - Every node maintains a local copy of the global data-sheet.
 	- we call this a Public Ledger.
 		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
