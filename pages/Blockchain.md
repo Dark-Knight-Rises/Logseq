@@ -6,12 +6,12 @@
   card-last-reviewed:: 2022-05-07T20:16:31.490Z
   card-last-score:: 1
 - A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination #card
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-08T18:30:00.000Z
-  card-last-reviewed:: 2022-05-07T20:20:39.031Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2022-05-12T19:18:03.198Z
+  card-last-reviewed:: 2022-05-08T19:18:03.198Z
+  card-last-score:: 3
 	- open: accesible to all
 	- distributed: no single party control
 	- efficient: fast and scalable
