@@ -74,6 +74,12 @@
 	  card-last-reviewed:: 2022-05-07T20:19:49.456Z
 	  card-last-score:: 1
 	- What/Who are miners in a blockchain? {{cloze Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks }} #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-05-12T19:17:09.318Z
+	  card-last-reviewed:: 2022-05-08T19:17:09.318Z
+	  card-last-score:: 3
 	- What are UTXOs in a Bitcoin 
 	  card-last-interval:: 4
 	  card-repeats:: 1
@@ -83,3 +89,9 @@
 	  card-last-score:: 3
 	  Blockchain? {{cloze These form the inputs and outputs for transactions  }} #card
 	- What is the genesis block? {{cloze The first block of a Blockchain}} #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-05-12T19:16:36.510Z
+	  card-last-reviewed:: 2022-05-08T19:16:36.510Z
+	  card-last-score:: 3
