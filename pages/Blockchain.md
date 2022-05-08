@@ -70,8 +70,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-05-08T18:30:00.000Z
-	  card-last-reviewed:: 2022-05-07T20:19:49.456Z
+	  card-next-schedule:: 2022-05-09T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-08T19:19:11.999Z
 	  card-last-score:: 1
 	- What/Who are miners in a blockchain? {{cloze Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks }} #card
 	  card-last-interval:: 4
