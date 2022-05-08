@@ -46,6 +46,12 @@
 - the system ensures consistency among the local copies.
 - Coursera
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2022-05-09T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-08T19:15:50.734Z
+	  card-last-score:: 1
 	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
 	  card-repeats:: 1
@@ -69,5 +75,11 @@
 	  card-last-score:: 1
 	- What/Who are miners in a blockchain? {{cloze Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks }} #card
 	- What are UTXOs in a Bitcoin 
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-05-12T19:16:06.911Z
+	  card-last-reviewed:: 2022-05-08T19:16:06.911Z
+	  card-last-score:: 3
 	  Blockchain? {{cloze These form the inputs and outputs for transactions  }} #card
 	- What is the genesis block? {{cloze The first block of a Blockchain}} #card
