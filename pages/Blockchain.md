@@ -54,11 +54,10 @@
 			- a small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
 - Bitcoin
-	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card
+	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 		- Completely decentralized. No central party for ordering or recording anything.
 		- Peer to peer. Software that runs on machines of all stakeholders to form the system.
 		- Permission less. No identity, no need to sign up anywhere to use, no access control. Anyone can participate in any role.
-	-
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
