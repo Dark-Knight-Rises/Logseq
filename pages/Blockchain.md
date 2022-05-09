@@ -52,7 +52,7 @@
 		- Cryptographically secured: given a x. H(x) can be computed but, given H(x) x cannot be computed.
 			- x is called message and H(x) is called message digest.
 			- a small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
-			- the first use of cryptographically secured hash functions
+			- the first use of cryptographically secured chain of blocks was in 1991 <ins> Time-Stamp a digital document</ins>
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
@@ -105,3 +105,4 @@
 	  card-next-schedule:: 2022-05-12T19:16:36.510Z
 	  card-last-reviewed:: 2022-05-08T19:16:36.510Z
 	  card-last-score:: 3
+-
