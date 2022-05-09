@@ -46,6 +46,8 @@
 			- Security: the data needs to be tamper proof. note that the clients may act maliciously or can be compromised.
 			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 	- the system ensures consistency among the local copies.
+- Fundamentals of blockchain
+	- cryptographically secured has
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
