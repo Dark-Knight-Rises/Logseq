@@ -48,7 +48,7 @@
 	- the system ensures consistency among the local copies.
 - Fundamentals of blockchain
 	- cryptographically secured hash functions
-		- Hash functions: map any sized data to a fixed size. H(x)=x
+		- Hash functions: map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
