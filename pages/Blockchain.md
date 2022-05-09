@@ -18,6 +18,7 @@
 	- verifiable: everyone can check the validity of information.
 	- permanent: the info is persistent
 - Centralized vs Decentralized vs Distributed architectures
+  collapsed:: true
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
@@ -29,6 +30,7 @@
   card-last-reviewed:: 2022-05-08T19:20:20.412Z
   card-last-score:: 5
 - Every node maintains a local copy of the global data-sheet.
+  collapsed:: true
 	- we call this a Public Ledger.
 		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
 		  card-last-interval:: 4
@@ -45,6 +47,7 @@
 			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 	- the system ensures consistency among the local copies.
 - Coursera
+  collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
 	  card-last-interval:: -1
 	  card-repeats:: 1
