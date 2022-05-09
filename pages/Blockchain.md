@@ -54,6 +54,8 @@
 			- a small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
 - Bitcoin
+	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card
+		- Completely decentralized.
 	-
 - Coursera
   collapsed:: true
