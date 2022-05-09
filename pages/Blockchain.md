@@ -12,6 +12,7 @@
   card-next-schedule:: 2022-05-12T19:18:03.198Z
   card-last-reviewed:: 2022-05-08T19:18:03.198Z
   card-last-score:: 3
+  collapsed:: true
 	- open: accesible to all
 	- distributed: no single party control
 	- efficient: fast and scalable
@@ -30,6 +31,7 @@
   card-last-reviewed:: 2022-05-08T19:20:20.412Z
   card-last-score:: 5
 - Every node maintains a local copy of the global data-sheet.
+  collapsed:: true
 	- we call this a Public Ledger.
 	  collapsed:: true
 		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
@@ -47,6 +49,7 @@
 			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 	- the system ensures consistency among the local copies.
 - Fundamentals of blockchain
+  collapsed:: true
 	- cryptographically secured hash functions
 		- Hash functions: map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
 		- Cryptographically secured: given a x. H(x) can be computed but, given H(x) x cannot be computed.
@@ -110,4 +113,3 @@
 	  card-next-schedule:: 2022-05-12T19:16:36.510Z
 	  card-last-reviewed:: 2022-05-08T19:16:36.510Z
 	  card-last-score:: 3
--
