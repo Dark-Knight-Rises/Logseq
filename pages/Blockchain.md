@@ -49,7 +49,8 @@
 - Fundamentals of blockchain
 	- cryptographically secured hash functions
 		- Hash functions: map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
-		- Cryptographically secured: given a x. H(x) can be computed but, given H(x) x
+		- Cryptographically secured: given a x. H(x) can be computed but, given H(x) x cannot be computed.
+			- x is called message and H(x)
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
