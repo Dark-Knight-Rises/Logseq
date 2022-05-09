@@ -53,6 +53,8 @@
 			- x is called message and H(x) is called message digest.
 			- a small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
+- Bitcoin
+	-
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
