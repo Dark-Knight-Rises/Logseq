@@ -47,7 +47,8 @@
 			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 	- the system ensures consistency among the local copies.
 - Fundamentals of blockchain
-	- cryptographically secured has
+	- cryptographically secured hash functions
+		- Hash functions: map any sized data to a fixed size. H(x)=x
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
