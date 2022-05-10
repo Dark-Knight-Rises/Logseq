@@ -8,4 +8,5 @@
 		- It is the easiest to install. And troubleshoot and therefore it is widely used in homes and offices.
 	- RING
 		- In this topology, the nodes are connected by exactly 2 nodes. And therefore they form a single continuous transmission path.
-		-
+		- Ring topology does not need a central server.
+		- If a single node is failed the entire network collapses.
