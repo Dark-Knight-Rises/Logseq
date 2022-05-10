@@ -16,4 +16,6 @@
 		- If a device wants to send the data to other device then the message is transmitted to the bus.
 		- If the bus is damaged, the whole network fails.
 	- MESH
-		- In this topology, all the nodes are connected to other nodes.
+		- In this topology, all the nodes are individually connected to other nodes.
+		- It does not need a central switch or hub.
+		-
