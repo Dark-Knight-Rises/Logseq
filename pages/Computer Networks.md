@@ -23,4 +23,7 @@
 			- Partially connected: In this topology, every node is not connected to every other node
 		- It is expensive to install as the cables are required in bulk.
 	- TREE
-		-
+		- It is the combination of star and bust topologies.
+		- All the star networks are connected by a single bus.
+		- If the bus is damaged, the entire network fails.
+		- But if a star network is damaged, then that segment only fails.
