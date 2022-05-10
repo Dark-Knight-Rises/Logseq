@@ -1,1 +1,2 @@
--
+- What is a network?
+	- A network is a collection of devices connected to each other to allow sharing of the data.
