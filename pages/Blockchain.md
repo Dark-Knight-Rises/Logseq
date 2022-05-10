@@ -58,6 +58,12 @@
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
 - Bitcoin
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-05-14T10:28:38.605Z
+	  card-last-reviewed:: 2022-05-10T10:28:38.605Z
+	  card-last-score:: 3
 		- Completely decentralized. No central party for ordering or recording anything.
 		- Peer to peer. Software that runs on machines of all stakeholders to form the system.
 		- Permission less. No identity, no need to sign up anywhere to use, no access control. Anyone can participate in any role.
