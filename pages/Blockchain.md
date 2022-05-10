@@ -55,6 +55,12 @@
 		- Cryptographically secured: given a x. H(x) can be computed but, given H(x) x cannot be computed.
 			- x is called message and H(x) is called message digest.
 			- a small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
+			  card-last-interval:: 4
+			  card-repeats:: 1
+			  card-ease-factor:: 2.36
+			  card-next-schedule:: 2022-05-14T10:29:42.045Z
+			  card-last-reviewed:: 2022-05-10T10:29:42.046Z
+			  card-last-score:: 3
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
 - Bitcoin
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
@@ -70,12 +76,12 @@
 - Coursera
   collapsed:: true
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-05-09T18:30:00.000Z
-	  card-last-reviewed:: 2022-05-08T19:15:50.734Z
-	  card-last-score:: 1
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-14T10:29:56.235Z
+	  card-last-reviewed:: 2022-05-10T10:29:56.235Z
+	  card-last-score:: 5
 	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
 	  card-repeats:: 1
