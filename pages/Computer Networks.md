@@ -29,3 +29,4 @@
 		- But if a star network is damaged, then only that segment fails.
 	- HYBRID
 		- As the name suggests. The hybrid topology is a combination of different topologies.
+		- It provides flexibility.
