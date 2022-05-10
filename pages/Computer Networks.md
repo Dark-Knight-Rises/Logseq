@@ -19,4 +19,6 @@
 		- In this topology, all the nodes are individually connected to other nodes.
 		- It does not need a central switch or hub.
 		- 2 types:
-			- Fully connected. In this topology Every node is connected individually to every other node.
+			- Fully connected. In this topology: Every node is connected individually to every other node.
+			- Partially connected: In this topology, every node is not connected to every other node
+		- .
