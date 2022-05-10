@@ -12,4 +12,5 @@
 		- If a single node is failed the entire network collapses.
 		- Examples: sonet network, sdh network etc.
 	- BUS
+		- In this topology, all the nodes are connected by a single cable known as the bus.
 		-
