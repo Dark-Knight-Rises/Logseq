@@ -1,3 +1,4 @@
 - What is a network? #card
 	- A network is a collection of devices connected to each other to allow sharing of the data. #defination
--
+- Types of network topology.
+	- Start topology is a network topology in which all the nodes are connected to a single device known as central device.
