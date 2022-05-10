@@ -21,4 +21,6 @@
 		- 2 types:
 			- Fully connected. In this topology: Every node is connected individually to every other node.
 			- Partially connected: In this topology, every node is not connected to every other node
-		- .
+		- It is expensive to install as the cables are required in bulk.
+	- TREE
+		-
