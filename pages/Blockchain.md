@@ -1,10 +1,11 @@
-- A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust each other, to cooperate, coordinate and collaborate in a rational decision making process. #defination #card
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-09T18:30:00.000Z
-  card-last-reviewed:: 2022-05-08T19:19:47.549Z
-  card-last-score:: 1
+- What is blockchain?
+	- A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust each other, to cooperate, coordinate and collaborate in a rational decision making process. #defination
+	  card-last-score:: 1
+	  card-repeats:: 1
+	  card-next-schedule:: 2022-05-10T18:30:00.000Z
+	  card-last-interval:: -1
+	  card-ease-factor:: 2.5
+	  card-last-reviewed:: 2022-05-10T10:31:42.014Z
 - A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination #card
   card-last-interval:: 4
   card-repeats:: 2
