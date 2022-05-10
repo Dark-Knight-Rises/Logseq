@@ -1,4 +1,4 @@
-- What is blockchain?
+- What is blockchain? #card
 	- A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust each other, to cooperate, coordinate and collaborate in a rational decision making process. #defination
 	  card-last-score:: 1
 	  card-repeats:: 1
@@ -19,8 +19,7 @@
 	- efficient: fast and scalable
 	- verifiable: everyone can check the validity of information.
 	- permanent: the info is persistent
-- Centralized vs Decentralized vs Distributed architectures
-  collapsed:: true
+- What are Centralized vs Decentralized vs Distributed architectures? #card
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
