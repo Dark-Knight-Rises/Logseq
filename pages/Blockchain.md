@@ -29,8 +29,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-10T18:30:00.000Z
-  card-last-reviewed:: 2022-05-10T10:35:06.687Z
+  card-next-schedule:: 2022-05-11T18:30:00.000Z
+  card-last-reviewed:: 2022-05-11T16:11:21.507Z
   card-last-score:: 1
   collapsed:: true
 	- Centralized: complete reliance on single point. it is not safe
