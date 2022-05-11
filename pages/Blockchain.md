@@ -1,11 +1,11 @@
 - What is  Blockchain? #card
-	- A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2022-05-12T19:18:03.198Z
-	  card-last-reviewed:: 2022-05-08T19:18:03.198Z
+	- A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination
 	  card-last-score:: 3
+	  card-repeats:: 2
+	  card-next-schedule:: 2022-05-12T19:18:03.198Z
+	  card-last-interval:: 4
+	  card-ease-factor:: 2.36
+	  card-last-reviewed:: 2022-05-08T19:18:03.198Z
 	  collapsed:: true
 		- open: accesible to all
 		- distributed: no single party control
