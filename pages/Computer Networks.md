@@ -1,4 +1,10 @@
 - What is a network? #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2022-05-15T16:10:20.431Z
+  card-last-reviewed:: 2022-05-11T16:10:20.432Z
+  card-last-score:: 3
 	- A network is a collection of devices connected to each other to allow sharing of data. #defination
 - Types of network topology.
 	- STAR
