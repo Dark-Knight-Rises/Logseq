@@ -19,6 +19,7 @@
   card-next-schedule:: 2022-05-12T19:18:03.198Z
   card-last-reviewed:: 2022-05-08T19:18:03.198Z
   card-last-score:: 3
+  collapsed:: true
 	- open: accesible to all
 	- distributed: no single party control
 	- efficient: fast and scalable
