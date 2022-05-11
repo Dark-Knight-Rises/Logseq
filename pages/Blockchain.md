@@ -39,7 +39,7 @@
 		  card-next-schedule:: 2022-05-11T20:20:57.888Z
 		  card-last-reviewed:: 2022-05-07T20:20:57.888Z
 		  card-last-score:: 5
-		- Example: say, the historical info if of banking transactions, the old transactions are used to validate the new transactions.
+		- Example: say, the historical info of banking transactions, the old transactions are used to validate the new transactions.
 		- We need to ensure a no. of different aspects in this public ledger.
 			- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
 			- Consensus: ensure that the local copies are consistent and updated.
