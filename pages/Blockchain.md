@@ -6,7 +6,6 @@
 	  card-last-interval:: 4
 	  card-ease-factor:: 2.36
 	  card-last-reviewed:: 2022-05-08T19:18:03.198Z
-	  collapsed:: true
 		- open: accesible to all
 		- distributed: no single party control
 		- efficient: fast and scalable
