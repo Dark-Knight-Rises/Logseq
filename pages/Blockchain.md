@@ -31,9 +31,7 @@
   card-last-reviewed:: 2022-05-08T19:20:20.412Z
   card-last-score:: 5
 - Every node maintains a local copy of the global data-sheet.
-  collapsed:: true
 	- we call this a Public Ledger.
-	  collapsed:: true
 		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
 		  card-last-interval:: 4
 		  card-repeats:: 1
@@ -63,6 +61,7 @@
 			  card-last-score:: 3
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
 - Bitcoin
+  collapsed:: true
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4
 	  card-repeats:: 1
