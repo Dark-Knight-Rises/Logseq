@@ -1,30 +1,17 @@
-- What is blockchain? #card
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2022-05-15T16:15:32.713Z
-  card-last-reviewed:: 2022-05-11T16:15:32.713Z
-  card-last-score:: 3
-	- A decentralized computation and information sharing platform that enables multiple authoritative domains, who do not trust each other, to cooperate, coordinate and collaborate in a rational decision making process. #defination
-	  card-last-score:: 1
-	  card-repeats:: 1
-	  card-next-schedule:: 2022-05-10T18:30:00.000Z
-	  card-last-interval:: -1
-	  card-ease-factor:: 2.5
-	  card-last-reviewed:: 2022-05-10T10:31:42.014Z
-- A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination #card
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2022-05-12T19:18:03.198Z
-  card-last-reviewed:: 2022-05-08T19:18:03.198Z
-  card-last-score:: 3
-  collapsed:: true
-	- open: accesible to all
-	- distributed: no single party control
-	- efficient: fast and scalable
-	- verifiable: everyone can check the validity of information.
-	- permanent: the info is persistent
+- What is  Blockchain? #card
+	- A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination #card
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-05-12T19:18:03.198Z
+	  card-last-reviewed:: 2022-05-08T19:18:03.198Z
+	  card-last-score:: 3
+	  collapsed:: true
+		- open: accesible to all
+		- distributed: no single party control
+		- efficient: fast and scalable
+		- verifiable: everyone can check the validity of information.
+		- permanent: the info is persistent
 - What are Centralized vs Decentralized vs Distributed architectures? #card
   card-last-interval:: -1
   card-repeats:: 1
