@@ -126,6 +126,6 @@
 	  card-last-score:: 3
 	- Solidity has data, functions or methods with modifiers, along with getter and setter functions. True or False? {{cloze True}} #card
 	- What allows for the execution of code in the Ethereum Blockchain, while enhancing the basic value transfer capability of the Bitcoin Blockchain? {{cloze Smart Contracts}} #card
-	- How many types of accounts are on Ethereum? {{cloze There are two types of Accounts: Externally Owned Accounts and Contract Accounts.}}
+	- How many types of accounts are on Ethereum? {{cloze There are two types of Accounts: Externally Owned Accounts and Contract Accounts.}} #card
 	- The {{cloze accounts (address)}} can send transactions for ether transfer or they can send transactions to invoke a smart contract code. #card
 	- What is the smallest denomination of cryptocurrency on Ethereum? {{cloze Wei}} #card
