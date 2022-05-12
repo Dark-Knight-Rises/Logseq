@@ -12,7 +12,7 @@
   :block/updated-at 1651766597622}
  {:block/name "blockchain",
   :block/created-at 1651951464032,
-  :block/updated-at 1652288145136}
+  :block/updated-at 1652370621846}
  {:block/name "c",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -37,9 +37,6 @@
  {:block/name "done",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
- {:block/name "draws/2022-05-07-13-57-58.excalidraw",
-  :block/created-at 1651912665084,
-  :block/updated-at 1651912665084}
  {:block/name "favorites",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -61,13 +58,13 @@
   :block/updated-at 1651832453893}
  {:block/name "may 10th, 2022",
   :block/created-at 1652122464542,
-  :block/updated-at 1652200524833}
+  :block/updated-at 1652369988234}
  {:block/name "may 11th, 2022",
   :block/created-at 1652214757737,
   :block/updated-at 1652288677559}
  {:block/name "may 12th, 2022",
   :block/created-at 1652296327997,
-  :block/updated-at 1652368483485}
+  :block/updated-at 1652370661134}
  {:block/name "may 5th, 2022",
   :block/created-at 1651765666507,
   :block/updated-at 1651765666507}
