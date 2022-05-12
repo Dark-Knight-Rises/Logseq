@@ -23,13 +23,6 @@
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
-- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.6
-  card-next-schedule:: 2022-05-12T19:20:20.412Z
-  card-last-reviewed:: 2022-05-08T19:20:20.412Z
-  card-last-score:: 5
 - Every node maintains a local copy of the global data-sheet.
   collapsed:: true
 	- we call this a Public Ledger.
@@ -74,6 +67,13 @@
 		- Peer to peer. Software that runs on machines of all stakeholders to form the system.
 		- Permission less. No identity, no need to sign up anywhere to use, no access control. Anyone can participate in any role.
 - Coursera
+	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-12T19:20:20.412Z
+	  card-last-reviewed:: 2022-05-08T19:20:20.412Z
+	  card-last-score:: 5
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
 	  card-last-interval:: 4
 	  card-repeats:: 2
