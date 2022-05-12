@@ -124,3 +124,5 @@
 	  card-next-schedule:: 2022-05-12T19:16:36.510Z
 	  card-last-reviewed:: 2022-05-08T19:16:36.510Z
 	  card-last-score:: 3
+	- Solidity has data, functions or methods with modifiers, along with getter and setter functions. True or False? {{cloze True}} #card
+	- What allows for the execution of code in the Ethereum Blockchain, while enhancing the basic value transfer capability of the Bitcoin Blockchain? {{cloze Smart Contracts}} #card
