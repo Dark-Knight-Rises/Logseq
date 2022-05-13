@@ -80,8 +80,9 @@ filters:: {"now" true}
 		- Permission less. No identity, no need to sign up anywhere to use, no access control. Anyone can participate in any role.
 	- The Bitcoin transaction lifecycle.
 		- The Sender
-			- He opens his Bitcoin wallet.
-			-
+			- 'A' opens his Bitcoin wallet.
+			- Provides the address of 'B' and the amount to transfer and sends.
+		-
 - Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
