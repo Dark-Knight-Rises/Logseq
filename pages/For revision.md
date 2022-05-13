@@ -16,7 +16,7 @@
 	- each segments are connected with a single bus
 	- if a segment fails no effect on the overall system
 	- if the main bus gets damaged then the system suffers.
-	- [[draws/2022-05-13-21-15-37.excalidraw]]
+	-
 	-
 - ## hybrid
 	- combination of two or more topologies
