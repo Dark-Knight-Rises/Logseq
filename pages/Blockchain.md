@@ -93,8 +93,8 @@ filters:: {"now" true}
 			- Once the mining is over and the hash is obtained, the block is included in the existing blockchain.
 				- The updated blockchain is then propagated in the network.
 		- The Receiver
-			- 'B; opens his Bitcoin wallet and refreshes the blockchain, gets updated.
-	-
+			- 'B' opens his Bitcoin wallet and refreshes, the blockchain gets updated.
+			- The transaction reflects at 'B's wallet.
 	-
 - Coursera
   collapsed:: true
