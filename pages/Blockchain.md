@@ -1,6 +1,6 @@
 filters:: {"now" true}
 
-- ## What is  Blockchain? #card
+- ## What is Blockchain? #card
   collapsed:: true
 	- A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination
 	  card-last-score:: 3
@@ -14,7 +14,7 @@ filters:: {"now" true}
 		- efficient: fast and scalable
 		- verifiable: everyone can check the validity of information.
 		- permanent: the info is persistent
-- What are Centralized vs Decentralized vs Distributed architectures? #card
+- ### What are Centralized vs Decentralized vs Distributed architectures? #card
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
@@ -66,7 +66,8 @@ filters:: {"now" true}
 			- Peer to peer networks. Data blocks received in undamaged and unaltered. Other peers do not lie about a block.
 			- ((627d27d4-7bee-4aea-8fad-d44d6afc5596)) implementation shared information are unaltered. No one can lie about a transaction.
 		-
-- Bitcoin
+- ## Bitcoin
+  collapsed:: true
   id:: 627d27d4-7bee-4aea-8fad-d44d6afc5596
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4
