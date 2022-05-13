@@ -53,6 +53,7 @@
 			  card-last-reviewed:: 2022-05-10T10:29:42.046Z
 			  card-last-score:: 3
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
+	- Merkle trees, RAF Mulcher in 1979.
 - Bitcoin
   collapsed:: true
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
