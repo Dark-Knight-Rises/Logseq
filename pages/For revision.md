@@ -12,4 +12,7 @@
 	- if the central system fails the entire network fails.
 - ## mesh
 	- combination of two topologies star and bus
-	- every star topology is called a se
+	- every star topology is called a segment
+	- each segments are connected with a single bus
+	- if a segment fails no effect on the overall system
+	- if the main bus gets damaged then the system suffers.
