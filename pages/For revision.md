@@ -5,3 +5,6 @@
 - ## ring
 	- every node is connected with two other nodes
 	- if one system fails the entire network fails
+- ## star
+	- most commonly used
+	- every node is connected with a single system
