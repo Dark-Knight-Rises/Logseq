@@ -83,7 +83,8 @@ filters:: {"now" true}
 			- 'A' opens his Bitcoin wallet.
 			- Provides the address of 'B' and the amount to transfer and hits send.
 		- The network
-			- The wallet constructs the transactions. Signature using A's private key and broadcasts it to the network.
+			- The wallet constructs the transaction. Digi signature using A's private key and broadcasts it to the network.
+			-
 - Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
