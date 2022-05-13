@@ -16,3 +16,6 @@
 	- each segments are connected with a single bus
 	- if a segment fails no effect on the overall system
 	- if the main bus gets damaged then the system suffers.
+- ## hybrid
+	- combination of two or more topologies
+	- provides flexibility
