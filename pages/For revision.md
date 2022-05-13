@@ -11,4 +11,5 @@
 	- if one system fails, it has no effect on the overall network
 	- if the central system fails the entire network fails.
 - ## mesh
-	-
+	- combination of two topologies star and bus
+	- every star topology is called a se
