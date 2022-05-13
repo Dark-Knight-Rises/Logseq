@@ -3,4 +3,5 @@
 	- if the bus gets damaged the entire system fails
 	- used when small no. of devices are to be connected
 - ## ring
-	-
+	- every node is connected with two other nodes
+	- if one system fails the entire network fails
