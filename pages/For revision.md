@@ -10,4 +10,5 @@
 	- every node is connected with a single central system
 	- if one system fails, it has no effect on the overall network
 	- if the central system fails the entire network fails.
-- mesh
+- ## mesh
+	-
