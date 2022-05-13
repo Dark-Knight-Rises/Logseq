@@ -60,10 +60,12 @@
 		- Bayer, Harber and Stornetta used Merkle tree in 1992 for timestamping and verifying a digital document
 			- Improved the efficiency by combining timestamping of several documents into one block.
 		- Other users of Merkle tree.
-			- Peer to peer networks. Data blocks received in undamaged and unaltered. Other tiers do not lie about a block.
+			- Peer to peer networks. Data blocks received in undamaged and unaltered. Other peers do not lie about a block.
+			- ((627d27d4-7bee-4aea-8fad-d44d6afc5596)) implementation shared information are unaltered. No one can lie about a transaction.
 		-
 - Bitcoin
   collapsed:: true
+  id:: 627d27d4-7bee-4aea-8fad-d44d6afc5596
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4
 	  card-repeats:: 1
