@@ -54,7 +54,8 @@
 			  card-last-score:: 3
 			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
 	- Merkle trees, Ralph Merkle. in 1979. aka {{cloze hash trees}}
-		-
+		- Every leaf node is labeled with the hash of a data block.
+		- Every non leaf node is labeled with the cryptographic hash of the labels of its child nodes.
 		-
 - Bitcoin
   collapsed:: true
@@ -69,6 +70,7 @@
 		- Peer to peer. Software that runs on machines of all stakeholders to form the system.
 		- Permission less. No identity, no need to sign up anywhere to use, no access control. Anyone can participate in any role.
 - Coursera
+  collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
 	  card-last-interval:: 4
 	  card-repeats:: 2
