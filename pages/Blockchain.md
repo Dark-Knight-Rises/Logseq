@@ -89,7 +89,8 @@ filters:: {"now" true}
 		- The Miners
 		  id:: 627e3823-ddf7-43fc-aece-6aba09957784
 			- The miners collect all the transactions for the time duration, say for 10 minutes.
-			-
+			- They construct a new block and try to connect it with the existing blockchain through a cryptographic hash function. Which is known as the  {{cloze Mining Procedure}}
+	-
 - Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
