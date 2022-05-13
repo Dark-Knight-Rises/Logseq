@@ -10,7 +10,7 @@
 	- every node is connected with a single central system
 	- if one system fails, it has no effect on the overall network
 	- if the central system fails the entire network fails.
-- ## mesh
+- ## tree
 	- combination of two topologies star and bus
 	- every star topology is called a segment
 	- each segments are connected with a single bus
@@ -19,3 +19,6 @@
 - ## hybrid
 	- combination of two or more topologies
 	- provides flexibility
+- ## mesh
+	- every node is connected with every other node entirelly
+	- very ec
