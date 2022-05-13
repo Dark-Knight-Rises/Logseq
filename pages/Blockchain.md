@@ -52,7 +52,7 @@
 			  card-next-schedule:: 2022-05-14T10:29:42.045Z
 			  card-last-reviewed:: 2022-05-10T10:29:42.046Z
 			  card-last-score:: 3
-			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and stornetta</ins>
+			- the first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and Stornetta</ins>
 	- Merkle trees, Ralph Merkle. in 1979. aka {{cloze hash trees}}
 		- Every leaf node is labeled with the hash of a data block.
 		- Every non leaf node is labeled with the cryptographic hash of the labels of its child nodes.
