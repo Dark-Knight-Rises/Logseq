@@ -57,6 +57,7 @@
 		- Every leaf node is labeled with the hash of a data block.
 		- Every non leaf node is labeled with the cryptographic hash of the labels of its child nodes.
 		- ![Screenshot (16).png](../assets/Screenshot_(16)_1652437959505_0.png)
+		-
 - Bitcoin
   collapsed:: true
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
