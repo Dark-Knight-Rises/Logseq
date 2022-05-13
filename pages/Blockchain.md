@@ -93,6 +93,7 @@ filters:: {"now" true}
 			- Once the mining is over and the hash is obtained, the block is included in the existing blockchain.
 				- The updated blockchain is propagated in the network.
 	-
+	-
 - Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
