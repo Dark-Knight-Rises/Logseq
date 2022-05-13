@@ -1,4 +1,4 @@
-- What is a network? #card
+- ## What is a network? #card
   card-last-interval:: 4
   card-repeats:: 1
   card-ease-factor:: 2.36
@@ -6,7 +6,7 @@
   card-last-reviewed:: 2022-05-11T16:10:20.432Z
   card-last-score:: 3
 	- A network is a collection of devices connected to each other to allow sharing of data. #defination
-- Types of network topology.
+- ## Types of network topology.
 	- STAR
 		- Start topology is a network topology in which all the nodes are connected to a single device known as central device.
 		- Start topology requires more cable. As compared to other top topologies and therefore it is more robust. Because if a single cable is failed. Then the entire network is not compromised.
