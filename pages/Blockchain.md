@@ -91,6 +91,7 @@ filters:: {"now" true}
 			- The miners collect all the transactions for the time duration, say for 10 minutes.
 			- They construct a new block and try to connect it with the existing blockchain through a cryptographic hash function. Which is known as the {{cloze Mining Procedure}}
 			- Once the mining is over and the hash is obtained, the block is included in the existing blockchain.
+				- The updated blockchain is propagated in the network.
 	-
 - Coursera
   collapsed:: true
