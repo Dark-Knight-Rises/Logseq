@@ -1,2 +1,3 @@
 - ## bus
-	-
+	- every node is connected with a single cable ka bus
+	- if the bus gets d
