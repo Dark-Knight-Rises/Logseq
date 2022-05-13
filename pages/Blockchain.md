@@ -85,8 +85,9 @@ filters:: {"now" true}
 		- The network
 			- The wallet constructs the transaction. Digitally signs using A's private key and broadcasts it to the network.
 			- The network nodes validate the transaction based on the existing blockchain and propagate the transaction to the miners.
-			- The miners include the transaction to the next block to be mined.
-		- The
+			- The  include the transaction to the next block to be mined.
+		- The miner
+			-
 - Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
