@@ -1,0 +1,57 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [
+    {
+      "id": "ewd7kvrKNYRFtI6Dl-Eps",
+      "type": "ellipse",
+      "x": 167.4000244140625,
+      "y": -327.1999816894531,
+      "width": 67.20001220703125,
+      "height": 72.79998779296875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 2096113241,
+      "version": 32,
+      "versionNonce": 931112087,
+      "isDeleted": false,
+      "boundElementIds": null
+    },
+    {
+      "id": "44OeFwJxm2Wztqb-rBZ6l",
+      "type": "ellipse",
+      "x": 424.20001220703125,
+      "y": -368,
+      "width": 94.39996337890625,
+      "height": 128.80001831054688,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 211197143,
+      "version": 36,
+      "versionNonce": 1689551609,
+      "isDeleted": false,
+      "boundElementIds": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  }
+}

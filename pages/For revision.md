@@ -16,9 +16,14 @@
 	- each segments are connected with a single bus
 	- if a segment fails no effect on the overall system
 	- if the main bus gets damaged then the system suffers.
+	- [[draws/2022-05-13-21-15-37.excalidraw]]
+	-
 - ## hybrid
 	- combination of two or more topologies
 	- provides flexibility
 - ## mesh
 	- every node is connected with every other node entirelly
-	- very ec
+	- very expensive due to the cable cost
+	- 2 types
+		- partially connected
+		- fully connected
