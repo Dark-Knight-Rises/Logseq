@@ -164,4 +164,10 @@ filters:: {"now" true}
 	- What allows for the execution of code in the Ethereum Blockchain, while enhancing the basic value transfer capability of the Bitcoin Blockchain? {{cloze Smart Contracts}} #card
 	- How many types of accounts are on Ethereum? {{cloze There are two types of Accounts: Externally Owned Accounts and Contract Accounts.}} #card
 	- The {{cloze accounts (address)}} can send transactions for ether transfer or they can send transactions to invoke a smart contract code. #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2022-05-14T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-14T09:18:41.096Z
+	  card-last-score:: 1
 	- What is the smallest denomination of cryptocurrency on Ethereum? {{cloze Wei}} #card
