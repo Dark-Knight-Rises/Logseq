@@ -2,6 +2,12 @@ filters:: {"now" true}
 
 - ## What is Blockchain? #card
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2022-05-14T18:30:00.000Z
+  card-last-reviewed:: 2022-05-14T09:20:06.319Z
+  card-last-score:: 1
 	- A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination
 	  card-last-score:: 3
 	  card-repeats:: 2
@@ -161,8 +167,26 @@ filters:: {"now" true}
 	  card-last-reviewed:: 2022-05-08T19:16:36.510Z
 	  card-last-score:: 3
 	- Solidity has data, functions or methods with modifiers, along with getter and setter functions. True or False? {{cloze True}} #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-18T09:20:33.875Z
+	  card-last-reviewed:: 2022-05-14T09:20:33.875Z
+	  card-last-score:: 5
 	- What allows for the execution of code in the Ethereum Blockchain, while enhancing the basic value transfer capability of the Bitcoin Blockchain? {{cloze Smart Contracts}} #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2022-05-14T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-14T09:20:48.154Z
+	  card-last-score:: 1
 	- How many types of accounts are on Ethereum? {{cloze There are two types of Accounts: Externally Owned Accounts and Contract Accounts.}} #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2022-05-14T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-14T09:20:17.882Z
+	  card-last-score:: 1
 	- The {{cloze accounts (address)}} can send transactions for ether transfer or they can send transactions to invoke a smart contract code. #card
 	  card-last-interval:: -1
 	  card-repeats:: 1
@@ -171,3 +195,9 @@ filters:: {"now" true}
 	  card-last-reviewed:: 2022-05-14T09:18:41.096Z
 	  card-last-score:: 1
 	- What is the smallest denomination of cryptocurrency on Ethereum? {{cloze Wei}} #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-18T09:20:24.236Z
+	  card-last-reviewed:: 2022-05-14T09:20:24.236Z
+	  card-last-score:: 5
