@@ -110,12 +110,12 @@ filters:: {"now" true}
 - Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-05-12T19:20:20.412Z
-	  card-last-reviewed:: 2022-05-08T19:20:20.412Z
-	  card-last-score:: 5
+	  card-last-interval:: 9.84
+	  card-repeats:: 3
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2022-05-24T05:22:48.735Z
+	  card-last-reviewed:: 2022-05-14T09:22:48.735Z
+	  card-last-score:: 3
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
 	  card-last-interval:: 4
 	  card-repeats:: 2
@@ -146,25 +146,25 @@ filters:: {"now" true}
 	  card-last-score:: 3
 	- What/Who are miners in a blockchain? {{cloze Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks }} #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2022-05-12T19:17:09.318Z
-	  card-last-reviewed:: 2022-05-08T19:17:09.318Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.22
+	  card-next-schedule:: 2022-05-18T09:22:38.975Z
+	  card-last-reviewed:: 2022-05-14T09:22:38.975Z
 	  card-last-score:: 3
 	- What are UTXOs in a Bitcoin 
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2022-05-12T19:16:06.911Z
-	  card-last-reviewed:: 2022-05-08T19:16:06.911Z
-	  card-last-score:: 3
+	  card-repeats:: 2
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2022-05-18T09:22:06.159Z
+	  card-last-reviewed:: 2022-05-14T09:22:06.159Z
+	  card-last-score:: 5
 	  Blockchain? {{cloze These form the inputs and outputs for transactions  }} #card
 	- What is the genesis block? {{cloze The first block of a Blockchain}} #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2022-05-12T19:16:36.510Z
-	  card-last-reviewed:: 2022-05-08T19:16:36.510Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.22
+	  card-next-schedule:: 2022-05-18T09:22:23.305Z
+	  card-last-reviewed:: 2022-05-14T09:22:23.305Z
 	  card-last-score:: 3
 	- Solidity has data, functions or methods with modifiers, along with getter and setter functions. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
