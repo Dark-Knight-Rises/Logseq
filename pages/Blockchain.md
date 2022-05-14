@@ -21,12 +21,12 @@ filters:: {"now" true}
 		- verifiable: everyone can check the validity of information.
 		- permanent: the info is persistent
 - ### What are Centralized vs Decentralized vs Distributed architectures? #card
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-11T18:30:00.000Z
-  card-last-reviewed:: 2022-05-11T16:11:21.507Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-05-18T09:21:29.092Z
+  card-last-reviewed:: 2022-05-14T09:21:29.092Z
+  card-last-score:: 5
   collapsed:: true
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
@@ -36,10 +36,10 @@ filters:: {"now" true}
 	- we call this a Public Ledger.
 		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
 		  card-last-interval:: 4
-		  card-repeats:: 1
-		  card-ease-factor:: 2.6
-		  card-next-schedule:: 2022-05-11T20:20:57.888Z
-		  card-last-reviewed:: 2022-05-07T20:20:57.888Z
+		  card-repeats:: 2
+		  card-ease-factor:: 2.7
+		  card-next-schedule:: 2022-05-18T09:21:58.355Z
+		  card-last-reviewed:: 2022-05-14T09:21:58.355Z
 		  card-last-score:: 5
 		- Example: say, the historical info of banking transactions, the old transactions are used to validate the new transactions.
 		- We need to ensure a no. of different aspects in this public ledger.
@@ -125,17 +125,17 @@ filters:: {"now" true}
 	  card-last-score:: 5
 	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-05-11T20:20:09.538Z
-	  card-last-reviewed:: 2022-05-07T20:20:09.538Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2022-05-18T09:21:43.502Z
+	  card-last-reviewed:: 2022-05-14T09:21:43.502Z
 	  card-last-score:: 5
 	- The algorithm for consensus in the Bitcoin blockchain is called {{cloze Proof of Work}} protocol. #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-05-11T20:19:58.140Z
-	  card-last-reviewed:: 2022-05-07T20:19:58.140Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2022-05-18T09:21:36.225Z
+	  card-last-reviewed:: 2022-05-14T09:21:36.225Z
 	  card-last-score:: 5
 	- Transaction 0 in every block in the bitcoin blockchain {{cloze is called the coinbase transaction, does not have any input UTXO and is for paying the miner fees.}} #card
 	  card-last-interval:: 4
