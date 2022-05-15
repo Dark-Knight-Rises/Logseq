@@ -13,4 +13,6 @@
 		- This way the CPU never gets idle. And the user gets the illusion of getting multiple jobs done at a time.
 	- Multitasking
 		- Multitasking OS combines the benefits of multiprogramming OS and CPU scheduling to perform quick switches between jobs.
+		- The switch is so quick that the user can interact with each program as it runs.
+	- Time Sharing
 		-
