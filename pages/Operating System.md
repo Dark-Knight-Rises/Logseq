@@ -18,3 +18,5 @@
 		- It requires interaction with the user to instruct the OS to perform various jobs.
 		- The OS responds with an output.
 		- The instructions are usually given with an input device like keyboard.
+	- Real Time
+		- Real time OS are built for
