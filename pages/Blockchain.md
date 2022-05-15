@@ -1,7 +1,6 @@
 filters:: {"now" true}
 
 - ## What is Blockchain? #card
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
