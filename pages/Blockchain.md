@@ -38,7 +38,7 @@
 	  card-ease-factor:: 2.7
 	  card-last-reviewed:: 2022-05-14T09:21:58.355Z
 	- Example: say, the historical info of banking transactions, the old transactions are used to validate the new transactions.
-	- We need to ensure a no. of different aspects in this public ledger. {{cloze }}
+	- We need to ensure a no. of different aspects in this public ledger, total {{cloze 4}}
 		- Protocols for commitment
 			- Ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
 		- Consensus
@@ -46,7 +46,7 @@
 		- Security
 			- The data needs to be tamper proof. note that the clients may act maliciously or can be compromised.
 		- Privacy and Authenticity
-		- The data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
+			- The data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
   collapsed:: true
 	- Cryptographically secured hash functions
