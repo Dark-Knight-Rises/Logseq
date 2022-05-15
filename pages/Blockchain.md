@@ -77,6 +77,7 @@
 				- Shared information is unaltered. No one can lie about a transaction.
 		-
 - ## Bitcoin
+  collapsed:: true
   id:: 627d27d4-7bee-4aea-8fad-d44d6afc5596
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4

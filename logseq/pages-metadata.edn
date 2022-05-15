@@ -12,7 +12,7 @@
   :block/updated-at 1651766597622}
  {:block/name "blockchain",
   :block/created-at 1651951464032,
-  :block/updated-at 1652520168754}
+  :block/updated-at 1652634016614}
  {:block/name "c",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -64,16 +64,16 @@
   :block/updated-at 1652288677559}
  {:block/name "may 12th, 2022",
   :block/created-at 1652296327997,
-  :block/updated-at 1652436000364}
+  :block/updated-at 1652632428518}
  {:block/name "may 13th, 2022",
   :block/created-at 1652435906982,
   :block/updated-at 1652458546714}
  {:block/name "may 14th, 2022",
   :block/created-at 1652507324719,
-  :block/updated-at 1652596075843}
+  :block/updated-at 1652634368197}
  {:block/name "may 15th, 2022",
   :block/created-at 1652596000595,
-  :block/updated-at 1652629302259}
+  :block/updated-at 1652632010360}
  {:block/name "may 6th, 2022",
   :block/created-at 1651778503680,
   :block/updated-at 1651956382445}
