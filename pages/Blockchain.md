@@ -50,9 +50,10 @@
 			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
 	- Cryptographically secured hash functions
-	  collapsed:: true
-		- Hash functions: map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
-		- Cryptographically secured: given a x. H(x) can be computed but, given H(x) x cannot be computed.
+		- Hash functions
+			- Map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
+		- Cryptographically secured
+			- Given a x. H(x) can be computed but, given H(x) x cannot be computed.
 			- x is called message and H(x) is called message digest.
 			- A small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
 			  card-last-interval:: 4
@@ -61,7 +62,7 @@
 			  card-next-schedule:: 2022-05-14T10:29:42.045Z
 			  card-last-reviewed:: 2022-05-10T10:29:42.046Z
 			  card-last-score:: 3
-			- The first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and Stornetta</ins>
+		- The first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and Stornetta</ins>
 	- Merkle trees, Ralph Merkle. in 1979. aka {{cloze hash trees}}
 	  collapsed:: true
 		- Every leaf node is labeled with the hash of a data block.
