@@ -27,11 +27,11 @@ filters:: {"now" true}
   card-next-schedule:: 2022-05-18T09:21:29.092Z
   card-last-reviewed:: 2022-05-14T09:21:29.092Z
   card-last-score:: 5
+  collapsed:: true
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - Every node maintains a local copy of the global data-sheet.
-  collapsed:: true
 	- we call this a Public Ledger.
 		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
 		  card-last-interval:: 4
