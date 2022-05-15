@@ -31,8 +31,7 @@ filters:: {"now" true}
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
-- Every node maintains a local copy of the global data-sheet.
-- we call this a Public Ledger.
+- Every node maintains a local copy of the global data-sheet known as ## Public Ledger.
 	- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
 	  card-last-interval:: 4
 	  card-repeats:: 2
