@@ -51,7 +51,7 @@
 - ### Fundamentals of blockchain
 	- Cryptographically secured Hash functions
 		- Cryptographically secured
-			- Letx is called message and H(x) is called message digest.
+			- Let's say 'x' is a message and H(x) is called message digest.
 			- Given a x. H(x) can be computed but, given H(x) x cannot be computed.
 			- A small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
 			  card-last-interval:: 4
