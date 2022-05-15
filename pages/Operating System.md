@@ -1,2 +1,2 @@
 - ## What is an OS? #card
-	- #defination
+	- An OS can be defined as the interface between user and hardware. #defination
