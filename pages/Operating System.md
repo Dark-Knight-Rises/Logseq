@@ -10,5 +10,6 @@
 		- The main memory consists of jobs waiting for the CPU time.
 		- The OS selects one process and assigns it to the CPU.
 		- Whenever the executing process needs to wait for any other operations like input or output, then the OS selects another process from the job queue and assigns it to the CPU.
-		- This way the CPU never gets idle. And the user gets the illusion of getting multiple jobs done at single time.
--
+		- This way the CPU never gets idle. And the user gets the illusion of getting multiple jobs done at a time.
+	- Multitasking
+		-
