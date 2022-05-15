@@ -49,6 +49,7 @@
 		- Privacy and Authenticity
 			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
+  collapsed:: true
 	- Cryptographically secured Hash functions
 		- Cryptographically secured
 			- Let's say 'x' is a message and H(x) is called message digest.
@@ -71,12 +72,11 @@
 			- Improved the efficiency by combining timestamping of several documents into one block.
 		- Other uses of Merkle tree.
 			- Peer to peer networks.
-				- Data blocks received in undamaged and unaltered. Other peers do not lie about a block.
+				- Data blocks received are undamaged and unaltered. Other peers do not lie about a block.
 			- ((627d27d4-7bee-4aea-8fad-d44d6afc5596)) implementation
-				- Shared information are unaltered. No one can lie about a transaction.
+				- Shared information is unaltered. No one can lie about a transaction.
 		-
 - ## Bitcoin
-  collapsed:: true
   id:: 627d27d4-7bee-4aea-8fad-d44d6afc5596
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4
