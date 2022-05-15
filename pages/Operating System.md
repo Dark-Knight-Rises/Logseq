@@ -4,5 +4,8 @@
 	- The purpose of an operating system is to provide an environment in which the user can execute the programs in an efficient manner.
 - ## Types of OS
 	- There are five types of OSs. Batch OS, multiprogramming, multitasking, Real time and, time sharing os.
-	- Batch OS: A similar set of jobs are stored in the main memory for execution. A job gets assigned to the CPU only when the previous job gets completed.
+	- Batch
+		- A similar set of jobs are stored in the main memory for execution.
+		- A job gets assigned to the CPU only when the previous job gets completed.
 	-
+-
