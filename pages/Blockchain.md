@@ -31,14 +31,14 @@ filters:: {"now" true}
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
-- Every node maintains a local copy of the global data-sheet known as ## Public Ledger.
-	- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2022-05-18T09:21:58.355Z
-	  card-last-reviewed:: 2022-05-14T09:21:58.355Z
+- ### What is a Public Ledger?
+	- A database of "historical information" available to everyone is called {{cloze public ledger}} #card
 	  card-last-score:: 5
+	  card-repeats:: 2
+	  card-next-schedule:: 2022-05-18T09:21:58.355Z
+	  card-last-interval:: 4
+	  card-ease-factor:: 2.7
+	  card-last-reviewed:: 2022-05-14T09:21:58.355Z
 	- Example: say, the historical info of banking transactions, the old transactions are used to validate the new transactions.
 	- We need to ensure a no. of different aspects in this public ledger.
 		- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
