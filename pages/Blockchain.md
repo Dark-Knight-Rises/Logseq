@@ -49,9 +49,7 @@
 		- Privacy and Authenticity
 			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
-	- Cryptographically secured hash functions
-		- Hash functions
-			- Map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
+	- Cryptographically secured Hash functions
 		- Cryptographically secured
 			- Given a x. H(x) can be computed but, given H(x) x cannot be computed.
 			- x is called message and H(x) is called message digest.
@@ -62,6 +60,8 @@
 			  card-next-schedule:: 2022-05-14T10:29:42.045Z
 			  card-last-reviewed:: 2022-05-10T10:29:42.046Z
 			  card-last-score:: 3
+		- Hash functions
+			- Map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
 		- The first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and Stornetta</ins>
 	- Merkle trees, Ralph Merkle. in 1979. aka {{cloze hash trees}}
 	  collapsed:: true
