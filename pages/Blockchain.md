@@ -94,12 +94,12 @@
 			- 'A' opens his Bitcoin wallet.
 			- Provides the address of 'B' and the amount to transfer and hits send.
 		- The Network
+		  collapsed:: true
 			- The wallet constructs the transaction. Digitally signs using A's private key and broadcasts it to the network.
 			- The network nodes validate the transaction based on the existing blockchain and propagate the transaction to the miners.
 			- ((627e3823-ddf7-43fc-aece-6aba09957784)) include the transaction to the next block to be mined.
 		- The Miners
 		  id:: 627e3823-ddf7-43fc-aece-6aba09957784
-		  collapsed:: true
 			- The miners collect all the transactions for the time duration, say for 10 minutes.
 			- They construct a new block and try to connect it with the existing blockchain through a cryptographic hash function. Which is known as the {{cloze Mining Procedure}}
 			- Once the mining is over and the hash is obtained, the block is included in the existing blockchain.
