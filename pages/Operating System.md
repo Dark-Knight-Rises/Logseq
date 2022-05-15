@@ -7,6 +7,8 @@
 		- A similar set of jobs are stored in the main memory for execution.
 		- A job gets assigned to the CPU only when the previous job gets completed.
 	- Multiprogramming
+		- The main memory consists of jobs waiting for the CPU time.
+		- The OS selects one process and assigns it to the CPU.
 		-
 -
 -
