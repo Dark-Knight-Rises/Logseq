@@ -50,7 +50,6 @@
 			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
 	- Cryptographically secured Hash functions
-	  collapsed:: true
 		- Cryptographically secured
 			- Let's say 'x' is a message and H(x) is called message digest.
 			- Given a x. H(x) can be computed but, given H(x) x cannot be computed.
