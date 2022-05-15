@@ -69,9 +69,11 @@
 		- ![Screenshot (16).png](../assets/Screenshot_(16)_1652437959505_0.png)
 		- Bayer, Harber and Stornetta used Merkle tree in 1991 for timestamping and verifying a digital document
 			- Improved the efficiency by combining timestamping of several documents into one block.
-		- Other users of Merkle tree.
-			- Peer to peer networks. Data blocks received in undamaged and unaltered. Other peers do not lie about a block.
-			- ((627d27d4-7bee-4aea-8fad-d44d6afc5596)) implementation shared information are unaltered. No one can lie about a transaction.
+		- Other uses of Merkle tree.
+			- Peer to peer networks.
+				- Data blocks received in undamaged and unaltered. Other peers do not lie about a block.
+			- ((627d27d4-7bee-4aea-8fad-d44d6afc5596)) implementation
+				- Shared information are unaltered. No one can lie about a transaction.
 		-
 - ## Bitcoin
   collapsed:: true
