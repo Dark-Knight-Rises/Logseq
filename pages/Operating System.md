@@ -1,4 +1,6 @@
 - ## What is an OS? #card
 	- An OS can be defined as the interface between user and hardware.
 	- It is responsible for the execution of all the processes. Resource allocation, CPU management, and file management.
-	- The purpose of an operating system is to provide an environment. In which the user can execute the programs in an efficient manner.
+	- The purpose of an operating system is to provide an environment in which the user can execute the programs in an efficient manner.
+- ## Types of OS
+	-
