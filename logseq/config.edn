@@ -112,19 +112,19 @@
  ;; the "NOW" query asks the tasks which need to be finished "now",
  ;; the "NEXT" query asks the future tasks.
  :default-queries
- {:journals
+{:journals
   [{:title "🔨 NOW"
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
-            [(contains? #{"NOW" "DOING"} ?marker)]
             [?h :block/page ?p]
-            [?p :block/journal? true]
-            [?p :block/journal-day ?d]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
             [(>= ?d ?start)]
-            [(<= ?d ?today)]]
-    :inputs [:14d :today]
+            [(<= ?d ?today)]
+            [(contains? #{"NOW" "DOING"} ?marker)]]
+    :inputs [:14d :today] ;; <-------- 14d
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
