@@ -19,4 +19,4 @@
 		- The OS responds with an output.
 		- The instructions are usually given with an input device like keyboard.
 	- Real Time
-		- Real time OS are built for
+		- Real time OS are built for dedicated systems to accomplish a specific set of tasks within deadline.
