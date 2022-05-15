@@ -50,6 +50,7 @@
 			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
 	- Cryptographically secured Hash functions
+	  collapsed:: true
 		- Cryptographically secured
 			- Let's say 'x' is a message and H(x) is called message digest.
 			- Given a x. H(x) can be computed but, given H(x) x cannot be computed.
@@ -64,7 +65,6 @@
 			- Map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
 		- The first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and Stornetta</ins>
 	- Merkle trees, Ralph Merkle. in 1979. aka {{cloze hash trees}}
-	  collapsed:: true
 		- Every leaf node is labeled with the hash of a data block.
 		- Every non leaf node is labeled with the cryptographic hash of the labels of its child nodes.
 		- ![Screenshot (16).png](../assets/Screenshot_(16)_1652437959505_0.png)
