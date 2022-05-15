@@ -1,5 +1,3 @@
-filters:: {"now" true}
-
 - ## What is Blockchain? #card
   collapsed:: true
   card-last-interval:: -1
@@ -31,8 +29,8 @@ filters:: {"now" true}
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
-- ### What is a Public Ledger?
-	- A database of "historical information" available to everyone is called {{cloze public ledger}} #card
+- ### What is a Public Ledger? #card
+	- A database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
 	  card-repeats:: 2
 	  card-next-schedule:: 2022-05-18T09:21:58.355Z
