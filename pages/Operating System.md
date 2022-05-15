@@ -12,4 +12,5 @@
 		- Whenever the executing process needs to wait for any other operations like input or output, then the OS selects another process from the job queue and assigns it to the CPU.
 		- This way the CPU never gets idle. And the user gets the illusion of getting multiple jobs done at a time.
 	- Multitasking
+		- Multitasking OS combines the benefits of multiprogramming OS and CPU scheduling to perform quick switches between jobs.
 		-
