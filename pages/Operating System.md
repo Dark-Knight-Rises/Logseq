@@ -2,6 +2,6 @@
 	- An OS can be defined as the interface between user and hardware.
 	- It is responsible for the execution of all the processes. Resource allocation, CPU management, and file management.
 	- The purpose of an operating system is to provide an environment in which the user can execute the programs in an efficient manner.
-- ## Types of OS {{cloze 5 types: batch, multiprogramming, multitasking, real time and time sharing}}
-	-
+- ## Types of OS
+	- There are five types of OSs. Batch OS, multiprogramming, multitasking, Real time movies and time schedules.
 -
