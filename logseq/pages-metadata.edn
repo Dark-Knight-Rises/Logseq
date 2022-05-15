@@ -37,9 +37,6 @@
  {:block/name "done",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
- {:block/name "draws/2022-05-13-21-15-37.excalidraw",
-  :block/created-at 1652458551504,
-  :block/updated-at 1652458551504}
  {:block/name "favorites",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -76,10 +73,7 @@
   :block/updated-at 1652596075843}
  {:block/name "may 15th, 2022",
   :block/created-at 1652596000595,
-  :block/updated-at 1652624739395}
- {:block/name "may 5th, 2022",
-  :block/created-at 1651765666507,
-  :block/updated-at 1651765666507}
+  :block/updated-at 1652628887065}
  {:block/name "may 6th, 2022",
   :block/created-at 1651778503680,
   :block/updated-at 1651956382445}
