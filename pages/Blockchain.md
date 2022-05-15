@@ -32,20 +32,20 @@ filters:: {"now" true}
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - Every node maintains a local copy of the global data-sheet.
-	- we call this a Public Ledger.
-		- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.7
-		  card-next-schedule:: 2022-05-18T09:21:58.355Z
-		  card-last-reviewed:: 2022-05-14T09:21:58.355Z
-		  card-last-score:: 5
-		- Example: say, the historical info of banking transactions, the old transactions are used to validate the new transactions.
-		- We need to ensure a no. of different aspects in this public ledger.
-			- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
-			- Consensus: ensure that the local copies are consistent and updated.
-			- Security: the data needs to be tamper proof. note that the clients may act maliciously or can be compromised.
-			- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
+- we call this a Public Ledger.
+	- a database of "historical information" available to everyone is called {{cloze public ledger}} #card
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2022-05-18T09:21:58.355Z
+	  card-last-reviewed:: 2022-05-14T09:21:58.355Z
+	  card-last-score:: 5
+	- Example: say, the historical info of banking transactions, the old transactions are used to validate the new transactions.
+	- We need to ensure a no. of different aspects in this public ledger.
+		- Protocols for commitment: ensure that every valid transaction from the clients are committed and included in the blockchain within a finite time.
+		- Consensus: ensure that the local copies are consistent and updated.
+		- Security: the data needs to be tamper proof. note that the clients may act maliciously or can be compromised.
+		- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
 	- the system ensures consistency among the local copies.
 - Fundamentals of blockchain
   collapsed:: true
