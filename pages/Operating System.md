@@ -15,4 +15,6 @@
 		- Multitasking OS combines the benefits of multiprogramming OS and CPU scheduling to perform quick switches between jobs.
 		- The switch is so quick that the user can interact with each program as it runs.
 	- Time Sharing
-		- It requires interaction with the user o instruct the OS to perform various jobs.
+		- It requires interaction with the user to instruct the OS to perform various jobs.
+		- The OS responds with an output.
+		- The instructions are usually given with an input device like keyboard.
