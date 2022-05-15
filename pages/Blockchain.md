@@ -46,7 +46,7 @@
 		- Security
 			- The data needs to be tamper proof. note that the clients may act maliciously or can be compromised.
 		- Privacy and Authenticity
-			- The data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
+			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
   collapsed:: true
 	- Cryptographically secured hash functions
