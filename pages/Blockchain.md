@@ -1,6 +1,7 @@
 filters:: {"now" true}
 
 - ## What is Blockchain? #card
+  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
@@ -26,7 +27,6 @@ filters:: {"now" true}
   card-next-schedule:: 2022-05-18T09:21:29.092Z
   card-last-reviewed:: 2022-05-14T09:21:29.092Z
   card-last-score:: 5
-  collapsed:: true
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
