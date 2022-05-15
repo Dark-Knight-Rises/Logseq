@@ -45,7 +45,7 @@ filters:: {"now" true}
 		- Consensus: ensure that the local copies are consistent and updated.
 		- Security: the data needs to be tamper proof. note that the clients may act maliciously or can be compromised.
 		- Privacy and Authenticity: the data (or transactions) belong to various clients; privacy and authenticity needs to be ensured.
-- Fundamentals of blockchain
+- ### Fundamentals of blockchain
   collapsed:: true
 	- Cryptographically secured hash functions
 		- Hash functions: map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
