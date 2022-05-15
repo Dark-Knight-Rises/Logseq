@@ -1,3 +1,3 @@
 - ## What is an OS? #card
 	- An OS can be defined as the interface between user and hardware.
-	-
+	- It is responsible for the execution of all the processes. Resource allocation, CPU management.
