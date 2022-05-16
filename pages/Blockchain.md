@@ -204,4 +204,4 @@
 	  card-last-score:: 5
 	- {{cloze Ethereum full node}} hosts the software needed for transaction initiation, validation, mining, block creation, and smart contract execution. #card
 	- {{cloze Miner nodes}} receive, verify, gather and execute transactions. #card
-	- Any changes to the value of a state variable in a smart contract are stored on the blockchain. True or False?
+	- Any changes to the value of a state variable in a smart contract are stored on the blockchain. True or False? {{cloze True}} #card
