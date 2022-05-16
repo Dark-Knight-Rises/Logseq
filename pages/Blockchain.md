@@ -136,8 +136,7 @@
 				- No party will be able to change the contract once it is fixed and written to the ((62815db8-9249-48af-8574-2f94b3c0e028)) , the blockchain.
 			- Distributed
 				- All the steps of the contract can be validated by every participating party. No one can claim later that the contract was not validated.
-			- Why Blockchain?
-				-
+		-
 - ## Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
