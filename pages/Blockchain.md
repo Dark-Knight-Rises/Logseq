@@ -264,6 +264,12 @@
 	  card-last-reviewed:: 2022-05-14T09:20:24.236Z
 	  card-last-score:: 5
 	- {{cloze Ethereum full node}} hosts the software needed for transaction initiation, validation, mining, block creation, and smart contract execution. #card
+	  card-last-interval:: 4.43
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-21T05:49:41.095Z
+	  card-last-reviewed:: 2022-05-16T19:49:41.095Z
+	  card-last-score:: 5
 	- {{cloze Miner nodes}} receive, verify, gather and execute transactions. #card
 	  card-last-interval:: 4.43
 	  card-repeats:: 1
