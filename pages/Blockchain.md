@@ -131,7 +131,9 @@
 		- How can Smart Contracts solve these problems?
 			- The contract is written in code which is available to all the stakeholders, the supporter and the product team. We can see an application of blockchain here.
 			- If the project fails, then the code will transfer the money back to the supporter's account.
-		- Advan
+		- Advantages of using Smart Contracts
+			- Immutable
+				- No party will be able to change the contract once it is fixed and return to the , the blockchain.
 - ## Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
