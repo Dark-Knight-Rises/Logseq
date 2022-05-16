@@ -22,7 +22,10 @@
 	- A block is a container data structure that contains a series of transactions.
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- Block header
-			-
+			- Metadata about a block.
+				- Previous block hash.
+				- Mining statistics used to construct the block.
+				- ((62815db8-e5e9-4072-abd6-b9c02584cf3e)) root.
 		- List of transactions
 	- In ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 	  collapsed:: true
@@ -77,6 +80,7 @@
 			- Map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
 		- The first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and Stornetta</ins>
 	- Merkle trees, Ralph Merkle. in 1979. aka {{cloze hash trees}}
+	  id:: 62815db8-e5e9-4072-abd6-b9c02584cf3e
 		- Every leaf node is labeled with the hash of a data block.
 		- Every non leaf node is labeled with the cryptographic hash of the labels of its child nodes.
 		- ![Screenshot (16).png](../assets/Screenshot_(16)_1652437959505_0.png)
