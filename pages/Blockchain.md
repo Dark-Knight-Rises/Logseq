@@ -31,6 +31,7 @@
 	- Distributed: everyone collectively execute the job
 - ### What is a Public Ledger? #card
   collapsed:: true
+  id:: 62815db8-9249-48af-8574-2f94b3c0e028
 	- A database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
 	  card-repeats:: 2
@@ -111,6 +112,7 @@
 	-
 - ## Smart Contracts
 	- The term was coined by Nick Szabo in 1996
+		- He claimed that smart contracts can be realized with the help of ((62815db8-9249-48af-8574-2f94b3c0e028))
 	-
 - ## Coursera
   collapsed:: true
