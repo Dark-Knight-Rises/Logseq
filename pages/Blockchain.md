@@ -29,10 +29,9 @@
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
-- ### What is a Public Ledger? #card
-  collapsed:: true
+- ### Public Ledger #card
   id:: 62815db8-9249-48af-8574-2f94b3c0e028
-	- A database of "historical information" available to everyone is called {{cloze public ledger}}
+	- database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
 	  card-repeats:: 2
 	  card-next-schedule:: 2022-05-18T09:21:58.355Z
@@ -78,7 +77,6 @@
 				- Shared information is unaltered. No one can lie about a transaction.
 		-
 - ## Bitcoin
-  collapsed:: true
   id:: 627d27d4-7bee-4aea-8fad-d44d6afc5596
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4
@@ -87,6 +85,7 @@
 	  card-next-schedule:: 2022-05-14T10:28:38.605Z
 	  card-last-reviewed:: 2022-05-10T10:28:38.605Z
 	  card-last-score:: 3
+	  collapsed:: true
 		- Completely decentralized. No central party for ordering or recording anything.
 		- Peer to peer. Software that runs on machines of all stakeholders to form the system.
 		- Permission less. No identity, no need to sign up anywhere to use, no access control. Anyone can participate in any role.
@@ -102,11 +101,13 @@
 			- ((627e3823-ddf7-43fc-aece-6aba09957784)) include the transaction to the next block to be mined.
 		- The Miners
 		  id:: 627e3823-ddf7-43fc-aece-6aba09957784
+		  collapsed:: true
 			- The miners collect all the transactions for the time duration, say for 10 minutes.
 			- They construct a new block and try to connect it with the existing blockchain through a cryptographic hash function. Which is known as the {{cloze Mining Procedure}}
 			- Once the mining is over and the hash is obtained, the block is included in the existing blockchain.
 				- The updated blockchain is then propagated in the network.
 		- The Receiver
+		  collapsed:: true
 			- 'B' opens his Bitcoin wallet and refreshes, the blockchain gets updated.
 			- The transaction reflects at 'B's wallet.
 	-
