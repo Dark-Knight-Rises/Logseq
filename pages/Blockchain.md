@@ -117,11 +117,12 @@
 	- The term was coined by Nick Szabo in 1996
 		- He claimed that smart contracts can be realized with the help of a ((62815db8-9249-48af-8574-2f94b3c0e028))
 		- Smart Contracts can be realized using blockchain
-	- Example (Contracts in a Centralized Platform - Crowdfunding)
-		- You have an interesting project, but you do not have sufficient money to execute the project.
-		- Submit the project in a crowdfunding platform.
-		- Multiple supporters commit to support the project with small funds.
-		- The platform ensures that you get the complete money if the project is successful.
+	- Example
+		- Contracts in a Centralized Platform - (Crowdfunding)
+			- You have an interesting project, but you do not have sufficient money to execute the project.
+			- Submit the project in a crowdfunding platform.
+			- Multiple supporters commit to support the project with small funds.
+			- The platform ensures that you get the complete money if the project is successful.
 	-
 - ## Coursera
   collapsed:: true
