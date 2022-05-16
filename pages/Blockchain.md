@@ -118,6 +118,7 @@
 		- He claimed that smart contracts can be realized with the help of a ((62815db8-9249-48af-8574-2f94b3c0e028))
 		- Smart Contracts can be realized using blockchain
 	- Example
+	  collapsed:: true
 		- Contracts in a Centralized Platform - (Crowdfunding)
 			- You have an interesting project, but you do not have sufficient money to execute the project.
 			- Submit the project in a crowdfunding platform.
@@ -136,6 +137,8 @@
 				- No party will be able to change the contract once it is fixed and written to the ((62815db8-9249-48af-8574-2f94b3c0e028)) , the blockchain.
 			- Distributed
 				- All the steps of the contract can be validated by every participating party. No one can claim later that the contract was not validated.
+	- Platforms
+		- Ethereum
 		-
 - ## Coursera
   collapsed:: true
