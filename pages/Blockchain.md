@@ -202,4 +202,6 @@
 	  card-next-schedule:: 2022-05-18T09:20:24.236Z
 	  card-last-reviewed:: 2022-05-14T09:20:24.236Z
 	  card-last-score:: 5
-	-
+	- {{cloze Ethereum full node}} hosts the software needed for transaction initiation, validation, mining, block creation, and smart contract execution. #card
+	- {{cloze Miner nodes}} receive, verify, gather and execute transactions. #card
+	- Any changes to the value of a state variable in a smart contract are stored on the blockchain. True or False?
