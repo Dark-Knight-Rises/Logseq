@@ -236,18 +236,18 @@
 	  card-last-reviewed:: 2022-05-14T09:20:33.875Z
 	  card-last-score:: 5
 	- What allows for the execution of code in the Ethereum Blockchain, while enhancing the basic value transfer capability of the Bitcoin Blockchain? {{cloze Smart Contracts}} #card
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-05-14T18:30:00.000Z
-	  card-last-reviewed:: 2022-05-14T09:20:48.154Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.43
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-21T05:54:44.688Z
+	  card-last-reviewed:: 2022-05-16T19:54:44.688Z
+	  card-last-score:: 5
 	- How many types of accounts are on Ethereum? {{cloze There are two types of Accounts: Externally Owned Accounts and Contract Accounts.}} #card
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-05-14T18:30:00.000Z
-	  card-last-reviewed:: 2022-05-14T09:20:17.882Z
+	  card-next-schedule:: 2022-05-17T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-16T19:54:27.729Z
 	  card-last-score:: 1
 	- The {{cloze accounts (address)}} can send transactions for ether transfer or they can send transactions to invoke a smart contract code. #card
 	  card-last-interval:: -1
