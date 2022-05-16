@@ -129,7 +129,8 @@
 			- The supporters expect the money to go to the project.
 			- However, the crowdfunding platform, the middleman, takes significant charge to manage the entire process.
 		- How can Smart Contracts solve these problems?
-			- The contract is written in code which is available to all the stakeholders, the supporter and the product team.
+			- The contract is written in code which is available to all the stakeholders, the supporter and the product team. We can see an application of blockchain here.
+			-
 - ## Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
