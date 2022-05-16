@@ -125,7 +125,9 @@
 			- The platform ensures that you get the complete money if the project is successful.
 		- Problems with this Centralized platform
 			- Both the product team and the supporters need to trust the crowdfunding platform.
-			-
+			- The product team expects the money to get paid based on the project progress.
+			- The supporters expect the money to go to the project.
+			- However, the crowdfunding platform, the middleman, takes significant charge to manage the entire process.
 	-
 - ## Coursera
   collapsed:: true
