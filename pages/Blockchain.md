@@ -30,7 +30,6 @@
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - ### Public Ledger #card
-  collapsed:: true
   id:: 62815db8-9249-48af-8574-2f94b3c0e028
 	- It is a database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
@@ -133,7 +132,8 @@
 			- If the project fails, then the code will transfer the money back to the supporter's account.
 		- Advantages of using Smart Contracts
 			- Immutable
-				- No party will be able to change the contract once it is fixed and return to the , the blockchain.
+				- No party will be able to change the contract once it is fixed and written to the ((62815db8-9249-48af-8574-2f94b3c0e028)) , the blockchain.
+				-
 - ## Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
