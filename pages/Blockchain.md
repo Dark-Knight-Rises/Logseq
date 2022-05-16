@@ -18,8 +18,9 @@
 		- efficient: fast and scalable
 		- verifiable: everyone can check the validity of information.
 		- permanent: the info is persistent
-- ### Structure of a Block
--
+- ### What is a Block? #card
+	- A block is a container data structure that contains a series of transactions.
+	- In
 - ### What are Centralized vs Decentralized vs Distributed architectures? #card
   card-last-interval:: 4
   card-repeats:: 2
