@@ -18,6 +18,7 @@
 		- efficient: fast and scalable
 		- verifiable: everyone can check the validity of information.
 		- permanent: the info is persistent
+- ### Structure of a Block
 -
 - ### What are Centralized vs Decentralized vs Distributed architectures? #card
   card-last-interval:: 4
