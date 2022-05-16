@@ -1,11 +1,11 @@
 - ## What is Blockchain? #card
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-14T18:30:00.000Z
-  card-last-reviewed:: 2022-05-14T09:20:06.319Z
-  card-last-score:: 1
+  card-last-interval:: 4.43
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2022-05-21T05:53:06.562Z
+  card-last-reviewed:: 2022-05-16T19:53:06.562Z
+  card-last-score:: 5
 	- A blockchain is an <ins>open</ins>, <ins>distributed ledger</ins>  that can record transactions between two parties <ins>efficiently</ins>  and in a <ins>verifiable</ins> and <ins>permanent</ins> way. (lansiti, lakhani 2017) #defination
 	  card-last-score:: 3
 	  card-repeats:: 2
@@ -253,8 +253,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-05-14T18:30:00.000Z
-	  card-last-reviewed:: 2022-05-14T09:18:41.096Z
+	  card-next-schedule:: 2022-05-17T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-16T19:53:39.792Z
 	  card-last-score:: 1
 	- What is the smallest denomination of cryptocurrency on Ethereum? {{cloze Wei}} #card
 	  card-last-interval:: 4
