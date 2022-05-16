@@ -116,7 +116,8 @@
 	- The term was coined by Nick Szabo in 1996
 		- He claimed that smart contracts can be realized with the help of a ((62815db8-9249-48af-8574-2f94b3c0e028))
 		- Smart Contracts can be realized using blockchain
-	- Example Contracts in a Centralized P;a
+	- Example (Contracts in a Centralized Platform - Crowdfunding)
+		-
 	-
 - ## Coursera
   collapsed:: true
