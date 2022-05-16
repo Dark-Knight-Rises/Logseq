@@ -109,8 +109,7 @@
 			- 'B' opens his Bitcoin wallet and refreshes, the blockchain gets updated.
 			- The transaction reflects at 'B's wallet.
 	-
-- Coursera
-  collapsed:: true
+- ## Coursera
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
 	  card-last-interval:: 9.84
 	  card-repeats:: 3
@@ -203,3 +202,4 @@
 	  card-next-schedule:: 2022-05-18T09:20:24.236Z
 	  card-last-reviewed:: 2022-05-14T09:20:24.236Z
 	  card-last-score:: 5
+	-
