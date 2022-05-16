@@ -115,6 +115,7 @@
 	-
 - ## Smart Contracts
 	- The term was coined by Nick Szabo in 1996
+	  collapsed:: true
 		- He claimed that smart contracts can be realized with the help of a ((62815db8-9249-48af-8574-2f94b3c0e028))
 		- Smart Contracts can be realized using blockchain
 	- Example
@@ -139,7 +140,9 @@
 				- All the steps of the contract can be validated by every participating party. No one can claim later that the contract was not validated.
 	- Platforms
 		- Ethereum
-		-
+		- Rootstock
+		- Hyperledger
+		- Ripple
 - ## Coursera
   collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
