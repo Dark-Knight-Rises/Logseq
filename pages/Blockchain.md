@@ -128,6 +128,8 @@
 			- The product team expects the money to get paid based on the project progress.
 			- The supporters expect the money to go to the project.
 			- However, the crowdfunding platform, the middleman, takes significant charge to manage the entire process.
+		- How can Smart Contracts solve these problems?
+			-
 	-
 - ## Coursera
   collapsed:: true
