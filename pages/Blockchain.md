@@ -114,6 +114,7 @@
 			- The transaction reflects at 'B's wallet.
 	-
 - ## Smart Contracts
+  collapsed:: true
 	- The term was coined by Nick Szabo in 1996
 	  collapsed:: true
 		- He claimed that smart contracts can be realized with the help of a ((62815db8-9249-48af-8574-2f94b3c0e028))
