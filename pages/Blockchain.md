@@ -110,6 +110,7 @@
 			- The transaction reflects at 'B's wallet.
 	-
 - ## Smart Contracts
+	- The term was coined by Nick Szabo in 1996
 	-
 - ## Coursera
   collapsed:: true
