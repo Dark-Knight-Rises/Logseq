@@ -261,3 +261,9 @@
 	- {{cloze Miner nodes}} receive, verify, gather and execute transactions. #card
 	- Any changes to the value of a state variable in a smart contract are stored on the blockchain. True or False? {{cloze True}} #card
 	- What are miners who solved the puzzle but didn't win the block creation called? {{cloze Ommers}} #card
+	  card-last-interval:: 4.43
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2022-05-21T05:37:14.874Z
+	  card-last-reviewed:: 2022-05-16T19:37:14.875Z
+	  card-last-score:: 5
