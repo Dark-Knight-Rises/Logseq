@@ -30,8 +30,9 @@
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - ### Public Ledger #card
+  collapsed:: true
   id:: 62815db8-9249-48af-8574-2f94b3c0e028
-	- database of "historical information" available to everyone is called {{cloze public ledger}}
+	- It is a database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
 	  card-repeats:: 2
 	  card-next-schedule:: 2022-05-18T09:21:58.355Z
@@ -113,7 +114,8 @@
 	-
 - ## Smart Contracts
 	- The term was coined by Nick Szabo in 1996
-		- He claimed that smart contracts can be realized with the help of ((62815db8-9249-48af-8574-2f94b3c0e028))
+		- He claimed that smart contracts can be realized with the help of a ((62815db8-9249-48af-8574-2f94b3c0e028))
+		-
 	-
 - ## Coursera
   collapsed:: true
