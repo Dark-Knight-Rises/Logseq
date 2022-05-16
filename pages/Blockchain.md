@@ -27,7 +27,6 @@
 				- Previous block hash.
 					- Every block inherits from the previous block. We use previous blocks hash to create the new block's hash, to make the blockchain tamper proof.
 				- Mining statistics used to construct the block.
-					-
 				- ((62815db8-e5e9-4072-abd6-b9c02584cf3e)) root.
 		- List of transactions
 	- In ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
@@ -97,7 +96,6 @@
 				- Shared information is unaltered. No one can lie about a transaction.
 		-
 - ## Bitcoin
-  collapsed:: true
   id:: 627d27d4-7bee-4aea-8fad-d44d6afc5596
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4
