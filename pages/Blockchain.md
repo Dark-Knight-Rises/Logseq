@@ -109,7 +109,10 @@
 			- 'B' opens his Bitcoin wallet and refreshes, the blockchain gets updated.
 			- The transaction reflects at 'B's wallet.
 	-
+- ## Smart Contracts
+	-
 - ## Coursera
+  collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
 	  card-last-interval:: 9.84
 	  card-repeats:: 3
