@@ -107,10 +107,10 @@
   id:: 627d27d4-7bee-4aea-8fad-d44d6afc5596
 	- Bitcoin is a completely decentralized peer to peer permission less cryptocurrency put forth in 2009. #card #defination
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2022-05-14T10:28:38.605Z
-	  card-last-reviewed:: 2022-05-10T10:28:38.605Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.22
+	  card-next-schedule:: 2022-05-20T19:50:36.192Z
+	  card-last-reviewed:: 2022-05-16T19:50:36.192Z
 	  card-last-score:: 3
 	  collapsed:: true
 		- Completely decentralized. No central party for ordering or recording anything.
