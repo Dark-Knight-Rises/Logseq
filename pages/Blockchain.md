@@ -81,11 +81,11 @@
 			- Given a x. H(x) can be computed but, given H(x) x cannot be computed.
 			- A small change in data results in a significant change in output, called {{cloze Avalanche Effect}} #card
 			  card-last-interval:: 4
-			  card-repeats:: 1
-			  card-ease-factor:: 2.36
-			  card-next-schedule:: 2022-05-14T10:29:42.045Z
-			  card-last-reviewed:: 2022-05-10T10:29:42.046Z
-			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-ease-factor:: 2.46
+			  card-next-schedule:: 2022-05-20T19:51:04.001Z
+			  card-last-reviewed:: 2022-05-16T19:51:04.002Z
+			  card-last-score:: 5
 		- Hash functions
 			- Map any sized data to a fixed size. H(x)=x%n. where x and n are integers and % is the remainder after dividing by n. H(x) is within range [0,n-1]
 		- The first use of cryptographically secured chain of blocks was in 1991 <ins>Time-Stamp a digital document</ins> by <ins>Harber and Stornetta</ins>
@@ -179,11 +179,11 @@
 	  card-last-reviewed:: 2022-05-14T09:22:48.735Z
 	  card-last-score:: 3
 	- Bitcoin enabled a {{cloze decentralized system}} for exchange of value #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-05-14T10:29:56.235Z
-	  card-last-reviewed:: 2022-05-10T10:29:56.235Z
+	  card-last-interval:: 10.8
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2022-05-27T14:51:14.226Z
+	  card-last-reviewed:: 2022-05-16T19:51:14.226Z
 	  card-last-score:: 5
 	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
@@ -200,12 +200,12 @@
 	  card-last-reviewed:: 2022-05-14T09:21:36.225Z
 	  card-last-score:: 5
 	- Transaction 0 in every block in the bitcoin blockchain {{cloze is called the coinbase transaction, does not have any input UTXO and is for paying the miner fees.}} #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2022-05-14T10:31:04.730Z
-	  card-last-reviewed:: 2022-05-10T10:31:04.731Z
-	  card-last-score:: 3
+	  card-last-interval:: 9.84
+	  card-repeats:: 3
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2022-05-26T15:51:49.305Z
+	  card-last-reviewed:: 2022-05-16T19:51:49.305Z
+	  card-last-score:: 5
 	- What/Who are miners in a blockchain? {{cloze Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks }} #card
 	  card-last-interval:: 4
 	  card-repeats:: 2
