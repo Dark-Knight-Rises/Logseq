@@ -22,7 +22,8 @@
 	- A block is a container data structure that contains a series of transactions.
 	- In ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- A block may contain more than 500 transactions on average. The average size of a block is around 1 MB (an upper bound proposed by Satoshi Nakamoto in 2010).
-		-
+		- May grow up up to 8 MB or sometimes higher.
+		- Larger blocks can help in processing large number of transactions in one group.
 - ### What are Centralized vs Decentralized vs Distributed architectures? #card
   card-last-interval:: 4
   card-repeats:: 2
