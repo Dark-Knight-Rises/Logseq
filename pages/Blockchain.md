@@ -123,6 +123,9 @@
 			- Submit the project in a crowdfunding platform.
 			- Multiple supporters commit to support the project with small funds.
 			- The platform ensures that you get the complete money if the project is successful.
+		- Problems with this Centralized platform
+			- Both the product team and the supporters need to trust the crowdfunding platform.
+			-
 	-
 - ## Coursera
   collapsed:: true
