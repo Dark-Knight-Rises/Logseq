@@ -19,6 +19,7 @@
 		- verifiable: everyone can check the validity of information.
 		- permanent: the info is persistent
 - ### What is a Block? #card
+  collapsed:: true
 	- A block is a container data structure that contains a series of transactions.
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- Block header
