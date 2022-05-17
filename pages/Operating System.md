@@ -60,4 +60,8 @@
 		- In this scheduling, processes with the highest response ratio are scheduled. This algorithm avoids starvation.
 		  Response Ratio = (Waiting Time + Burst time) / Burst time
 	- Multilevel Queue Scheduling (MLQ)
-		-
+		- According to the priority of the
+		  process, processes are placed in the different queues. Generally high priority processes are placed in the top level queue. Only after completion of processes from the top level queue, lower level queued processes are scheduled.
+	- Multilevel Feedback Queue (MLFQ) Scheduling
+		- It allows the process to
+		  move in between queues. The idea is to separate processes according to the characteristics of their CPU bursts. If a process uses too much CPU time, it is moved to a lower-priority queue.
