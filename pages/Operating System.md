@@ -5,6 +5,7 @@
   card-next-schedule:: 2022-05-17T18:30:00.000Z
   card-last-reviewed:: 2022-05-16T19:49:23.360Z
   card-last-score:: 1
+  collapsed:: true
 	- An OS can be defined as the interface between user and hardware. #defination
 	- It is responsible for the execution of all the processes. Resource allocation, CPU management, and file management.
 	- The purpose of an operating system is to provide an environment in which the user can execute the programs in an efficient manner.
@@ -38,4 +39,9 @@
 	- A ((6283b412-e1db-46e4-af8d-4c9840be7f45)) can perform more than one task at the same time by including multiple threads.
 	- A thread has its own program counter, register set, and stack
 	- A thread shares resources with other threads of the same process: the code section, the data section, files and signals.
-	-
+	- A new thread, or a child process of a given process, can be introduced by using
+	  the fork() system call. A process with n fork() system call generates 2^n – 1 child
+	  processes.
+	- There are two types of threads
+		- User threads (User threads are implemented by users)
+		- Kernel threads (Kernel threads are implemented by OS)
