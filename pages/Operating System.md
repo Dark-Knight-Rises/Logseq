@@ -46,6 +46,7 @@
 		- User threads (User threads are implemented by users)
 		- Kernel threads (Kernel threads are implemented by OS)
 - ## Scheduling Algorithms, {{cloze 8}} types.
+	- fairy smooched stupid roses, provides him
 	- First Come First Serve (FCFS)
 		- Simplest scheduling algorithm that schedules according to arrival times of processes.
 	- Shortest Job First (SJF)
