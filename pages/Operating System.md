@@ -51,6 +51,7 @@
 	- Shortest Job First (SJF)
 		- Processes which have the shortest burst time are scheduled first.
 	- Shortest Remaining Time First (SRTF)
-		- It is a preemptive mode of SJF
-		  algorithm in which jobs are scheduled according to the shortest remaining
-		  time.
+		- It is a preemptive mode of SJF algorithm in which jobs are scheduled according to the shortest remaining time.
+	- Round Robin (RR) Scheduling
+		- Each process is assigned a fixed time, in a cyclic way.
+	-
