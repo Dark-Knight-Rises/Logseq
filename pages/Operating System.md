@@ -30,4 +30,5 @@
 - ## Process
 	- A Process is a program under execution.
 	- The value of the program counter indicates the address of the next instruction of the process being executed.
-	- Each process is controlled by a process control block.
+	- Each process is represented by a process control block. (PCB)
+	-
