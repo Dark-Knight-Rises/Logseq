@@ -29,3 +29,5 @@
 		- Real time OS are built for dedicated systems to accomplish a specific set of tasks within deadline.
 - ## Process
 	- A Process is a program under execution.
+	- The value of the program counter indicates the address of the next instruction of the process being executed.
+	- Each process is controlled by a process control block.
