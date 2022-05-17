@@ -31,5 +31,7 @@
 	- A Process is a program under execution.
 	- The value of the program counter indicates the address of the next instruction of the process being executed.
 	- Each process is represented by a process control block. (PCB)
+	  id:: 6283b46b-eec4-4e4b-a7ec-5c26d7ae9a6b
 - ## Thread
-	-
+	- A thread is a lightweight process and forms the basic unit of CPU utilization.
+	- A ((6283b46b-eec4-4e4b-a7ec-5c26d7ae9a6b)) can perform more than one task at the same time by including multiple threads.
