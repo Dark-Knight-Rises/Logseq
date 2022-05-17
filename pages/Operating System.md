@@ -8,7 +8,8 @@
 	- An OS can be defined as the interface between user and hardware. #defination
 	- It is responsible for the execution of all the processes. Resource allocation, CPU management, and file management.
 	- The purpose of an operating system is to provide an environment in which the user can execute the programs in an efficient manner.
-- ## Types of OS. {{cloze 5}} types
+- ### Types of OS. {{cloze 5}} types
+  collapsed:: true
 	- Batch
 		- A similar set of jobs are stored in the main memory for execution.
 		- A job gets assigned to the CPU only when the previous job gets completed.
@@ -26,3 +27,5 @@
 		- The instructions are usually given with an input device like keyboard.
 	- Real Time
 		- Real time OS are built for dedicated systems to accomplish a specific set of tasks within deadline.
+- ## Process
+	- A Process is a program under execution.
