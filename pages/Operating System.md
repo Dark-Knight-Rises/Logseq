@@ -36,6 +36,7 @@
 	- Each process is represented by a process control block. (PCB)
 	  id:: 6283b46b-eec4-4e4b-a7ec-5c26d7ae9a6b
 - ## Thread
+  collapsed:: true
 	- A thread is a lightweight process and forms the basic unit of CPU utilization.
 	- A ((6283b412-e1db-46e4-af8d-4c9840be7f45)) can perform more than one task at the same time by including multiple threads.
 	- A thread has its own program counter, register set, and stack
@@ -44,3 +45,5 @@
 	- There are two types of threads
 		- User threads (User threads are implemented by users)
 		- Kernel threads (Kernel threads are implemented by OS)
+- ## Scheduling Algorithms
+	-
