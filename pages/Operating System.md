@@ -45,5 +45,5 @@
 	- There are two types of threads
 		- User threads (User threads are implemented by users)
 		- Kernel threads (Kernel threads are implemented by OS)
-- ## Scheduling Algorithms
+- ## Scheduling Algorithms, {{cloze 8}} types.
 	-
