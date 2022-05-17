@@ -30,6 +30,7 @@
 		- Real time OS are built for dedicated systems to accomplish a specific set of tasks within deadline.
 - ## Process
   id:: 6283b412-e1db-46e4-af8d-4c9840be7f45
+  collapsed:: true
 	- A Process is a program under execution.
 	- The value of the program counter indicates the address of the next instruction of the process being executed.
 	- Each process is represented by a process control block. (PCB)
@@ -39,9 +40,7 @@
 	- A ((6283b412-e1db-46e4-af8d-4c9840be7f45)) can perform more than one task at the same time by including multiple threads.
 	- A thread has its own program counter, register set, and stack
 	- A thread shares resources with other threads of the same process: the code section, the data section, files and signals.
-	- A new thread, or a child process of a given process, can be introduced by using
-	  the fork() system call. A process with n fork() system call generates 2^n – 1 child
-	  processes.
+	- A new thread, or a child process of a given process, can be introduced by using the fork() system call. A process with n fork() system call generates 2^n – 1 child processes.
 	- There are two types of threads
 		- User threads (User threads are implemented by users)
 		- Kernel threads (Kernel threads are implemented by OS)
