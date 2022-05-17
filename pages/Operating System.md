@@ -50,4 +50,7 @@
 		- Simplest scheduling algorithm that schedules according to arrival times of processes.
 	- Shortest Job First (SJF)
 		- Processes which have the shortest burst time are scheduled first.
-	-
+	- Shortest Remaining Time First (SRTF)
+		- It is a preemptive mode of SJF
+		  algorithm in which jobs are scheduled according to the shortest remaining
+		  time.
