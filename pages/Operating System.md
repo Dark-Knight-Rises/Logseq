@@ -37,5 +37,5 @@
 	- A thread is a lightweight process and forms the basic unit of CPU utilization.
 	- A ((6283b412-e1db-46e4-af8d-4c9840be7f45)) can perform more than one task at the same time by including multiple threads.
 	- A thread has its own program counter, register set, and stack
-	- A thread shares resources with other threads of the same process: the code section,
-	  the data section, files and signals.
+	- A thread shares resources with other threads of the same process: the code section, the data section, files and signals.
+	-
