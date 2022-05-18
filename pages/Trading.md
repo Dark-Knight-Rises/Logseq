@@ -1,4 +1,6 @@
 - ## Swing Trading
 	- Time frame
 		- Daily chart 1 day
+	- Stock selection on Weekends
+		- 44 moving average
 		-
