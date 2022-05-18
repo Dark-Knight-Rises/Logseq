@@ -1,1 +1,4 @@
-- Swingbnn
+- ## Swing Trading
+	- Time frame
+		- Daily chart 1 day
+		-
