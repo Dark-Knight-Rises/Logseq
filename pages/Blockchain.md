@@ -1,5 +1,4 @@
 - ## What is Blockchain? #card
-  collapsed:: true
   card-last-interval:: 4.43
   card-repeats:: 2
   card-ease-factor:: 2.6
@@ -25,7 +24,6 @@
   card-next-schedule:: 2022-05-17T18:30:00.000Z
   card-last-reviewed:: 2022-05-16T19:43:36.948Z
   card-last-score:: 1
-  collapsed:: true
 	- A block is a container data structure that contains a series of transactions.
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- Block header
@@ -38,7 +36,6 @@
 				- ((62815db8-e5e9-4072-abd6-b9c02584cf3e)) root.
 		- List of transactions
 	- In ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
-	  collapsed:: true
 		- A block may contain more than 500 transactions on average. The average size of a block is around 1 MB (an upper bound proposed by Satoshi Nakamoto in 2010).
 		- May grow up up to 8 MB or sometimes higher.
 		- Larger blocks can help in processing large number of transactions in one group.
@@ -49,7 +46,6 @@
   card-next-schedule:: 2022-05-18T09:21:29.092Z
   card-last-reviewed:: 2022-05-14T09:21:29.092Z
   card-last-score:: 5
-  collapsed:: true
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
