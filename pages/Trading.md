@@ -3,4 +3,5 @@
 		- Daily chart 1 day
 	- Stock selection on Weekends
 		- 44 moving average
+		- select the stocks which have rising 44 day ma
 		-
