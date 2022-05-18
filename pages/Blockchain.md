@@ -27,10 +27,8 @@
 	- A block is a container data structure that contains a series of transactions.
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- Block header
-		  collapsed:: true
 			- Metadata about a block.
 				- Previous block hash.
-				  collapsed:: true
 					- Every block inherits from the previous block. We use previous blocks hash to create the new block's hash, to make the blockchain tamper proof.
 				- Mining statistics used to construct the block.
 				- ((62815db8-e5e9-4072-abd6-b9c02584cf3e)) root.
@@ -50,7 +48,6 @@
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - ### Public Ledger
-  collapsed:: true
   id:: 62815db8-9249-48af-8574-2f94b3c0e028
 	- It is a database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
@@ -70,7 +67,6 @@
 		- Privacy and Authenticity
 			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
-  collapsed:: true
 	- Cryptographically secured Hash functions
 		- Cryptographically secured
 			- Let's say 'x' is a message and H(x) is called message digest.
@@ -135,13 +131,10 @@
 			- The transaction reflects at 'B's wallet.
 	-
 - ## Smart Contracts
-  collapsed:: true
 	- The term was coined by Nick Szabo in 1996
-	  collapsed:: true
 		- He claimed that smart contracts can be realized with the help of a ((62815db8-9249-48af-8574-2f94b3c0e028))
 		- Smart Contracts can be realized using blockchain
 	- Example
-	  collapsed:: true
 		- Contracts in a Centralized Platform - (Crowdfunding)
 			- You have an interesting project, but you do not have sufficient money to execute the project.
 			- Submit the project in a crowdfunding platform.
@@ -166,7 +159,6 @@
 		- Hyperledger
 		- Ripple
 - ## Coursera
-  collapsed:: true
 	- Blockchain can be defined as a {{cloze decentralized database}}  with {{cloze strong consistency support}}. #card #defination
 	  card-last-interval:: 9.84
 	  card-repeats:: 3
