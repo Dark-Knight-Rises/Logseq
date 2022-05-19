@@ -195,11 +195,11 @@
 	  card-last-reviewed:: 2022-05-16T19:51:49.305Z
 	  card-last-score:: 5
 	- What/Who are miners in a blockchain? {{cloze Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks }} #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.22
-	  card-next-schedule:: 2022-05-18T09:22:38.975Z
-	  card-last-reviewed:: 2022-05-14T09:22:38.975Z
+	  card-last-interval:: 8.32
+	  card-repeats:: 3
+	  card-ease-factor:: 2.08
+	  card-next-schedule:: 2022-05-28T02:49:26.997Z
+	  card-last-reviewed:: 2022-05-19T19:49:26.997Z
 	  card-last-score:: 3
 	- What are UTXOs in a Bitcoin 
 	  card-last-interval:: 9.28
@@ -210,12 +210,12 @@
 	  card-last-score:: 3
 	  Blockchain? {{cloze These form the inputs and outputs for transactions  }} #card
 	- What is the genesis block? {{cloze The first block of a Blockchain}} #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
+	  card-last-interval:: -1
+	  card-repeats:: 1
 	  card-ease-factor:: 2.22
-	  card-next-schedule:: 2022-05-18T09:22:23.305Z
-	  card-last-reviewed:: 2022-05-14T09:22:23.305Z
-	  card-last-score:: 3
+	  card-next-schedule:: 2022-05-20T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-19T19:48:49.556Z
+	  card-last-score:: 1
 	- Solidity has data, functions or methods with modifiers, along with getter and setter functions. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
 	  card-repeats:: 2
