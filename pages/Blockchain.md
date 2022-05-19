@@ -174,18 +174,18 @@
 	  card-last-reviewed:: 2022-05-16T19:51:14.226Z
 	  card-last-score:: 5
 	- Transaction confirmation is independently performed by all miner nodes. True or False? {{cloze True}} #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2022-05-18T09:21:43.502Z
-	  card-last-reviewed:: 2022-05-14T09:21:43.502Z
-	  card-last-score:: 5
+	  card-last-interval:: 10.24
+	  card-repeats:: 3
+	  card-ease-factor:: 2.56
+	  card-next-schedule:: 2022-05-30T00:48:11.471Z
+	  card-last-reviewed:: 2022-05-19T19:48:11.471Z
+	  card-last-score:: 3
 	- The algorithm for consensus in the Bitcoin blockchain is called {{cloze Proof of Work}} protocol. #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2022-05-18T09:21:36.225Z
-	  card-last-reviewed:: 2022-05-14T09:21:36.225Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2022-05-30T23:48:00.700Z
+	  card-last-reviewed:: 2022-05-19T19:48:00.700Z
 	  card-last-score:: 5
 	- Transaction 0 in every block in the bitcoin blockchain {{cloze is called the coinbase transaction, does not have any input UTXO and is for paying the miner fees.}} #card
 	  card-last-interval:: 9.84
@@ -202,12 +202,12 @@
 	  card-last-reviewed:: 2022-05-14T09:22:38.975Z
 	  card-last-score:: 3
 	- What are UTXOs in a Bitcoin 
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.46
-	  card-next-schedule:: 2022-05-18T09:22:06.159Z
-	  card-last-reviewed:: 2022-05-14T09:22:06.159Z
-	  card-last-score:: 5
+	  card-last-interval:: 9.28
+	  card-repeats:: 3
+	  card-ease-factor:: 2.32
+	  card-next-schedule:: 2022-05-29T01:48:25.079Z
+	  card-last-reviewed:: 2022-05-19T19:48:25.079Z
+	  card-last-score:: 3
 	  Blockchain? {{cloze These form the inputs and outputs for transactions  }} #card
 	- What is the genesis block? {{cloze The first block of a Blockchain}} #card
 	  card-last-interval:: 4
