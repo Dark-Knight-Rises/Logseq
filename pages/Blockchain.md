@@ -21,8 +21,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-17T18:30:00.000Z
-  card-last-reviewed:: 2022-05-16T19:43:36.948Z
+  card-next-schedule:: 2022-05-20T18:30:00.000Z
+  card-last-reviewed:: 2022-05-19T19:45:16.626Z
   card-last-score:: 1
 	- A block is a container data structure that contains a series of transactions.
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
