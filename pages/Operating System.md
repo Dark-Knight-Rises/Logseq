@@ -1,10 +1,10 @@
 - ## What is an OS? #card
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2022-05-17T18:30:00.000Z
-  card-last-reviewed:: 2022-05-16T19:49:23.360Z
-  card-last-score:: 1
+  card-last-interval:: 3.98
+  card-repeats:: 2
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2022-05-23T18:45:53.984Z
+  card-last-reviewed:: 2022-05-19T19:45:53.984Z
+  card-last-score:: 3
   collapsed:: true
 	- An OS can be defined as the interface between user and hardware. #defination
 	- It is responsible for the execution of all the processes. Resource allocation, CPU management, and file management.

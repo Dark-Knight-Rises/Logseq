@@ -237,12 +237,12 @@
 	  card-last-reviewed:: 2022-05-16T19:54:27.729Z
 	  card-last-score:: 1
 	- The {{cloze accounts (address)}} can send transactions for ether transfer or they can send transactions to invoke a smart contract code. #card
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-05-17T18:30:00.000Z
-	  card-last-reviewed:: 2022-05-16T19:53:39.792Z
-	  card-last-score:: 1
+	  card-last-interval:: 3.98
+	  card-repeats:: 2
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-05-23T18:46:19.959Z
+	  card-last-reviewed:: 2022-05-19T19:46:19.960Z
+	  card-last-score:: 3
 	- What is the smallest denomination of cryptocurrency on Ethereum? {{cloze Wei}} #card
 	  card-last-interval:: 4
 	  card-repeats:: 1
