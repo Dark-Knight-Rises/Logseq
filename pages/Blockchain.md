@@ -37,12 +37,13 @@
 		- May grow up up to 8 MB or sometimes higher.
 		- Larger blocks can help in processing large number of transactions in one group.
 - ### What are Centralized vs Decentralized vs Distributed architectures? #card
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.6
-  card-next-schedule:: 2022-05-18T09:21:29.092Z
-  card-last-reviewed:: 2022-05-14T09:21:29.092Z
+  card-last-interval:: 10.8
+  card-repeats:: 3
+  card-ease-factor:: 2.7
+  card-next-schedule:: 2022-05-30T14:47:46.423Z
+  card-last-reviewed:: 2022-05-19T19:47:46.424Z
   card-last-score:: 5
+  collapsed:: true
 	- Centralized: complete reliance on single point. it is not safe
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
@@ -217,10 +218,10 @@
 	  card-last-score:: 3
 	- Solidity has data, functions or methods with modifiers, along with getter and setter functions. True or False? {{cloze True}} #card
 	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-05-18T09:20:33.875Z
-	  card-last-reviewed:: 2022-05-14T09:20:33.875Z
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2022-05-23T19:47:05.162Z
+	  card-last-reviewed:: 2022-05-19T19:47:05.162Z
 	  card-last-score:: 5
 	- What allows for the execution of code in the Ethereum Blockchain, while enhancing the basic value transfer capability of the Bitcoin Blockchain? {{cloze Smart Contracts}} #card
 	  card-last-interval:: 4.43
@@ -233,8 +234,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-05-17T18:30:00.000Z
-	  card-last-reviewed:: 2022-05-16T19:54:27.729Z
+	  card-next-schedule:: 2022-05-20T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-19T19:46:47.951Z
 	  card-last-score:: 1
 	- The {{cloze accounts (address)}} can send transactions for ether transfer or they can send transactions to invoke a smart contract code. #card
 	  card-last-interval:: 3.98
@@ -244,12 +245,12 @@
 	  card-last-reviewed:: 2022-05-19T19:46:19.960Z
 	  card-last-score:: 3
 	- What is the smallest denomination of cryptocurrency on Ethereum? {{cloze Wei}} #card
-	  card-last-interval:: 4
+	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2022-05-18T09:20:24.236Z
-	  card-last-reviewed:: 2022-05-14T09:20:24.236Z
-	  card-last-score:: 5
+	  card-next-schedule:: 2022-05-20T18:30:00.000Z
+	  card-last-reviewed:: 2022-05-19T19:46:55.280Z
+	  card-last-score:: 1
 	- {{cloze Ethereum full node}} hosts the software needed for transaction initiation, validation, mining, block creation, and smart contract execution. #card
 	  card-last-interval:: 4.43
 	  card-repeats:: 1
