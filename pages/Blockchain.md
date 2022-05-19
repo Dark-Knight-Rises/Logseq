@@ -27,6 +27,7 @@
 	- A block is a container data structure that contains a series of transactions.
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- Block header
+		  collapsed:: true
 			- Metadata about a block.
 				- Previous block hash.
 					- Every block inherits from the previous block. We use previous blocks hash to create the new block's hash, to make the blockchain tamper proof.
