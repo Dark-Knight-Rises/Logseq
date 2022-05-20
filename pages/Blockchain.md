@@ -105,7 +105,6 @@
 	  card-next-schedule:: 2022-05-20T19:50:36.192Z
 	  card-last-reviewed:: 2022-05-16T19:50:36.192Z
 	  card-last-score:: 3
-	  collapsed:: true
 		- Completely decentralized. No central party for ordering or recording anything.
 		- Peer to peer. Software that runs on machines of all stakeholders to form the system.
 		- Permission less. No identity, no need to sign up anywhere to use, no access control. Anyone can participate in any role.
