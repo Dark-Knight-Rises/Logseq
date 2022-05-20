@@ -48,6 +48,7 @@
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - ### Public Ledger
+  collapsed:: true
   id:: 62815db8-9249-48af-8574-2f94b3c0e028
 	- It is a database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
