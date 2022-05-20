@@ -28,7 +28,7 @@
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- Block header
 			- Metadata about a block.
-				- Every block inherits from the previous block. We use previous blocks hash to create the new block's hash, to make the blockchain tamper proof.
+				- Every block inherits from the previous block. We use previous block's hash to create the new block's hash, to make the blockchain tamper proof.
 				- Mining statistics used to construct the block.
 				- ((62815db8-e5e9-4072-abd6-b9c02584cf3e)) root.
 		- List of transactions
