@@ -1,5 +1,4 @@
 - ## What is Blockchain? #card
-  collapsed:: true
   card-last-interval:: 4.43
   card-repeats:: 2
   card-ease-factor:: 2.6
