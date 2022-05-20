@@ -88,7 +88,7 @@
 		- Every leaf node is labeled with the hash of a data block.
 		- Every non leaf node is labeled with the cryptographic hash of the labels of its child nodes.
 		- ![Screenshot (16).png](../assets/Screenshot_(16)_1652437959505_0.png)
-		- Bayer, Harber and Stornetta used Merkle tree in 1991 for timestamping and verifying a digital document
+		- Bayer Harber and Stornetta used Merkle tree in 1991 for timestamping and verifying a digital document
 			- Improved the efficiency by combining timestamping of several documents into one block.
 		- Other uses of Merkle tree.
 			- Peer to peer networks.
