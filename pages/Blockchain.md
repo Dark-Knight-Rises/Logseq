@@ -68,7 +68,7 @@
 		- Privacy and Authenticity
 			- The data (or transactions) belong to various clients; therefore privacy and authenticity needs to be ensured.
 - ### Fundamentals of blockchain
-	- <ins></ins> Cryptographically secured Hash functions
+	- <ins> Cryptographically secured Hash functions</ins>
 		- Cryptographically secured
 			- Let's say 'x' is a message and H(x) is called message digest.
 			- Given a x. H(x) can be computed but, given H(x) x cannot be computed.
