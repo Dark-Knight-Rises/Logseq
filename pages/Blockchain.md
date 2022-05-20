@@ -1,4 +1,5 @@
 - ## What is Blockchain? #card
+  collapsed:: true
   card-last-interval:: 4.43
   card-repeats:: 2
   card-ease-factor:: 2.6
@@ -24,6 +25,7 @@
   card-next-schedule:: 2022-05-20T18:30:00.000Z
   card-last-reviewed:: 2022-05-19T19:45:16.626Z
   card-last-score:: 1
+  collapsed:: true
 	- A block is a container data structure that contains a series of transactions.
 	- Structure of a Block. Reference ((627d27d4-7bee-4aea-8fad-d44d6afc5596))
 		- Block header
@@ -48,6 +50,7 @@
 	- Decentralized: multiple points of coordination.
 	- Distributed: everyone collectively execute the job
 - ### Public Ledger
+  collapsed:: true
   id:: 62815db8-9249-48af-8574-2f94b3c0e028
 	- It is a database of "historical information" available to everyone is called {{cloze public ledger}}
 	  card-last-score:: 5
