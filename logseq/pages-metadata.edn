@@ -12,7 +12,7 @@
   :block/updated-at 1651766597622}
  {:block/name "blockchain",
   :block/created-at 1651951464032,
-  :block/updated-at 1652989767013}
+  :block/updated-at 1653026002659}
  {:block/name "c",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -79,7 +79,7 @@
   :block/updated-at 1652730907897}
  {:block/name "may 17th, 2022",
   :block/created-at 1652729639974,
-  :block/updated-at 1652989004705}
+  :block/updated-at 1653025664301}
  {:block/name "may 18th, 2022",
   :block/created-at 1652848816611,
   :block/updated-at 1652993452328}
