@@ -28,7 +28,6 @@
 		- Real time OS are built for dedicated systems to accomplish a specific set of tasks within deadline.
 - ## Process
   id:: 6283b412-e1db-46e4-af8d-4c9840be7f45
-  collapsed:: true
 	- A Process is a program under execution.
 	- The value of the program counter indicates the address of the next instruction of the process being executed.
 	- Each process is represented by a process control block. (PCB)
