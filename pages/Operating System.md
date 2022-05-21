@@ -55,7 +55,7 @@
 		- In this scheduling, processes are scheduled according to their priorities, i.e., highest priority process is scheduled first. If priorities of two processes match, then scheduling is according to the arrival time.
 	- Highest Response Ratio Next (HRRN)
 		- In this scheduling, processes with the highest response ratio are scheduled. This algorithm avoids starvation.
-		  Response Ratio = (Waiting Time + Burst time) / Burst time
+		- Response Ratio = (Waiting Time + Burst time) / Burst time
 	- Multilevel Queue Scheduling (MLQ)
 		- According to the priority of the process, processes are placed in the different queues. Generally high priority processes are placed in the top level queue. Only after completion of processes from the top level queue, lower level queued processes are scheduled.
 	- Multilevel Feedback Queue (MLFQ) Scheduling
