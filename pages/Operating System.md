@@ -5,7 +5,6 @@
   card-next-schedule:: 2022-05-23T18:45:53.984Z
   card-last-reviewed:: 2022-05-19T19:45:53.984Z
   card-last-score:: 3
-  collapsed:: true
 	- An OS can be defined as the interface between user and hardware. #defination
 	- It is responsible for the execution of all the processes. Resource allocation, CPU management, and file management.
 	- The purpose of an operating system is to provide an environment in which the user can execute the programs in an efficient manner.
