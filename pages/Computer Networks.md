@@ -85,5 +85,9 @@
 				- Fragmentation.
 					- It is a process of dividing the packets into fragments.
 		- Datalink layer.
-			-
+			- It is used for transferring the data from one node to another node.
+			- It receives the data from the network layer and converts the data into data frames and then attaches the physical address to these frames which are sent to the physical layer.
+			- It enables the error free transfer of data from one node to another node.
+			- Functions of data link layer.
+				-
 	-
