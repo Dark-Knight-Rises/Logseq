@@ -63,4 +63,8 @@
 			- The main responsibility of the session layer is beginning, maintaining and ending the communication between the devices.
 			- Session layer also reports the error coming from the upper layers.
 			- Session layer establishes and maintains the session between the two users.
+		- Transport layer.
+			- It delivers the message through the network and provides error checking so that no error occurs during the transfer of data.
+			- It provides two kinds of services.
+			-
 -
