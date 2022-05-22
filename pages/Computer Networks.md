@@ -70,5 +70,10 @@
 					- In this transmission, the receiver sends the acknowledgment to the sender after the packet has been received.
 				- Connectionless transmission.
 					- In this transmission, the receiver does not send the acknowledgment to the sender.
-				-
+		- Network layer.
+			- Network layer converts the logical address into the physical address.
+			- The routing concept means it determines the best route for the packet to travel from.
+			- Functions of network layer.
+				- Routing.
+					-
 -
