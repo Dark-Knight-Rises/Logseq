@@ -75,5 +75,7 @@
 			- The routing concept means it determines the best route for the packet to travel from.
 			- Functions of network layer.
 				- Routing.
-					-
+					- The network layer determines the best route from the source to destination. This function is known as routing.
+				- Addressing.
+					- The network layer defines the addressing scheme to identify device uniquely.
 -
