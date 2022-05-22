@@ -52,11 +52,15 @@
 			- Application layer protocols are file transfer protocol, simple mail transfer protocol, domain name system, etc.
 			- The most widely used application protocol is HTTP (Hypertext transfer protocol ). A user sends the request for the web page using HTTP
 		- Presentation layer.
-			- The presentation layer is also known as a translation layer as it translates the data from one format to another format.
+			- The presentation layer is also known as translation layer as it translates the data from one format to another format.
 			- At the sender side, this layer translates the data format used by the application layer to the common format and at the receiver side, this layer translates the common format into a format used by application layer.
 			- Functions of presentation layer.
 				- Character code translation.
 				- Data conversion.
 				- Data compression.
 				- Data encryption.
-		-
+		- Session layer.
+			- The main responsibility of the session layer is beginning, maintaining and ending the communication between the devices.
+			- Session layer also reports the error coming from the upper layers.
+			- Session layer establishes and maintains the session between the two users.
+-
