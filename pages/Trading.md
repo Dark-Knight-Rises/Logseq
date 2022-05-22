@@ -5,6 +5,7 @@
 		- 44 moving average
 		- select the stocks which have rising 44 day ma
 	- Trade
-		- Draw Channel in 1 hour time frame to
+		- Draw Channel in 1 hour time frame to calculate support and resistance
+		- Pick the parallel channel tool
 		-
 	-
