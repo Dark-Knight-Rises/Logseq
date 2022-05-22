@@ -48,4 +48,5 @@
 		- A Penguin said that nobody drinks Pepsi. #mnemonic
 		- Application layer.
 			- Application layer enables the user to access the network.
+			- It is the topmost layer of the OS I reference model.
 			-
