@@ -92,5 +92,9 @@
 				- Frame synchronization.
 					- Datalink layer converts the data into frames and it ensures that the destination must recognize the starting and ending of each frame.
 				- Flow control.
-					-
+					- Datalink layer controls the data flow within the network.
+				- Error control.
+					- It detects and corrects the error occurred during the transmission from the source to destination.
+				- Addressing.
+					- Datalink layer attaches the physical address with the data frame so that the individual machines can easily identify.
 	-
