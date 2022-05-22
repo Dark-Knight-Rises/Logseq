@@ -38,4 +38,5 @@
 		- As the name suggests. The hybrid topology is a combination of different topologies.
 		- It provides flexibility.
 - ## OSI (Open System Interconnections)
-	-
+	- It is a network architecture model based on the ISO standards.
+	- It is called the OSI model as it deals with connecting the systems that are open for communication with other systems.
