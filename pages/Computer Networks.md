@@ -66,5 +66,9 @@
 		- Transport layer.
 			- It delivers the message through the network and provides error checking so that no error occurs during the transfer of data.
 			- It provides two kinds of services.
-			-
+				- Connection oriented transmission.
+					- In this transmission, the receiver sends the acknowledgment to the sender after the packet has been received.
+				- Connectionless transmission.
+					- In this transmission, the receiver does not send the acknowledgment to the sender.
+				-
 -
