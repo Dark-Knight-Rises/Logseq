@@ -78,5 +78,8 @@
 					- The network layer determines the best route from the source to destination. This function is known as routing.
 				- Logical Addressing.
 					- The network layer defines the addressing scheme to identify each device uniquely.
-				-
+				- Packetizing.
+					- The network layer receives the data from the upper layer and converts the data into packets. This process is known as packetizing.
+				- Internetworking.
+					- The network layer provides the logical connection between the different types of network fo forming a bigger network.
 	-
