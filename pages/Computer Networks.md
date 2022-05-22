@@ -89,5 +89,8 @@
 			- It receives the data from the network layer and converts the data into data frames and then attaches the physical address to these frames which are sent to the physical layer.
 			- It enables the error free transfer of data from one node to another node.
 			- Functions of data link layer.
-				-
+				- Frame synchronization.
+					- Datalink layer converts the data into frames and it ensures that the destination must recognize the starting and ending of each frame.
+				- Flow control.
+					-
 	-
