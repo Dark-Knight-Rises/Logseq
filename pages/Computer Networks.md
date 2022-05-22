@@ -81,5 +81,9 @@
 				- Packetizing.
 					- The network layer receives the data from the upper layer and converts the data into packets. This process is known as packetizing.
 				- Internetworking.
-					- The network layer provides the logical connection between the different types of network fo forming a bigger network.
+					- The network layer provides the logical connection between the different types of network for forming a bigger network.
+				- Fragmentation.
+					- It is a process of dividing the packets into fragments.
+		- Datalink layer.
+			-
 	-
