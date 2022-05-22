@@ -5,6 +5,6 @@
 		- 44 moving average
 		- select the stocks which have rising 44 day ma
 	- Trade
-		- Draw Channel in 1 hour time frame
+		- Draw Channel in 1 hour time frame to
 		-
 	-
