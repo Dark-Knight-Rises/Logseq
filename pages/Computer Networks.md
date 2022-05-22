@@ -44,6 +44,8 @@
 		- Create a new layer if a different abstraction is needed.
 		- Each layer should have a well defined function.
 		- The function of each layer is chosen based on internationally standardized protocols.
-	- The seven layers.
+	- ### The seven layers.
 		- A Penguin said that nobody drinks Pepsi. #mnemonic
-		-
+		- Application layer.
+			- Application layer enables the user to access the network.
+			-
