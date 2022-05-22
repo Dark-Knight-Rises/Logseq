@@ -100,4 +100,7 @@
 				- Link management.
 					- Datalink layer managers the initiation, maintenance and termination of the link between the source and destination for the effective exchange of data.
 		- Physical Layer.
-			-
+			- It is the lowest layer of OSI reference model.
+			- It is used for the transmission of an unstructured raw bitstream over a physical medium.
+			- Physical layer transmits the data either in the form of electrical, optical, or mechanical form.
+			- The physical layer is mainly used for the physical connection between the devices and such physical connection can be made by using twisted pair cable, fiber optic or wireless transmission media.
