@@ -97,6 +97,7 @@
 					- It detects and corrects the error occurred during the transmission from the source to destination.
 				- Addressing.
 					- Datalink layer attaches the physical address with the data frame so that the individual machines can be easily identified.
-					- Link management.
-						- Datalink layer managers the initiation, maintenance and.
-	-
+				- Link management.
+					- Datalink layer managers the initiation, maintenance and termination of the link between the source and destination for the effective exchange of data.
+		- Physical Layer.
+			-
