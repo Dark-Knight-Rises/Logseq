@@ -40,4 +40,6 @@
 - ## OSI (Open System Interconnections)
 	- It is a network architecture model based on the ISO standards.
 	- It is called the OSI model as it deals with connecting the systems that are open for communication with other systems.
-	- The OS I model has seven layers. The principalsUsed to arrive at the seven layers can be summarized briefly as below.
+	- The OSI model has seven layers. The principles used to arrive at the seven layers can be summarized briefly as below.
+		- Create a new layer if a different abstraction is needed.
+		-
