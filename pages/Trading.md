@@ -14,6 +14,7 @@
 	- derived from the underlying
 	- ### Options
 		- Calls and Puts
+		- For buying a call option someone has to sell you a put option
 		- Call (buy)
 			- You are calling the market up.
 			- if market goes up you make money
