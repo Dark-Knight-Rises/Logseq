@@ -8,7 +8,7 @@
 		- Apply 3d charting
 			- Weekly
 			- Daily
-			- Hourly
+			- Hou rly
 		- Pick the parallel channel tool and draw the channel
 		- use 3 ema strategy
 			- The five. Moving average is denoted by the Green line.
