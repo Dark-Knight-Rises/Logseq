@@ -10,5 +10,7 @@
 		-
 	-
 - ## Futures and options
+	- we can get leverage
 	- ### Options
-	- ###
+		-
+	- ### Futures
