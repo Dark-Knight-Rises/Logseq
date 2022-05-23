@@ -97,7 +97,10 @@
   :block/updated-at 1653244398313}
  {:block/name "may 23rd, 2022",
   :block/created-at 1653244204419,
-  :block/updated-at 1653328434805}
+  :block/updated-at 1653332511084}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653332472145,
+  :block/updated-at 1653332516421}
  {:block/name "may 6th, 2022",
   :block/created-at 1651778503680,
   :block/updated-at 1651956382445}
@@ -127,7 +130,7 @@
   :block/updated-at 1651766597622}
  {:block/name "trading",
   :block/created-at 1652879358622,
-  :block/updated-at 1653279955680}
+  :block/updated-at 1653334515742}
  {:block/name "wait",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
