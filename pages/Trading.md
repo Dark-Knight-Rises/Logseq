@@ -7,6 +7,7 @@
 	- Trade
 		- Draw Channel in 1 hour time frame to calculate support and resistance
 		- Pick the parallel channel tool and draw the channel
+		- use
 		-
 	-
 - ## Futures and options
