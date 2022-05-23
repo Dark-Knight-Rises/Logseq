@@ -7,7 +7,10 @@
 	- Trade
 		- Draw Channel in 1 hour time frame to calculate support and resistance
 		- Pick the parallel channel tool and draw the channel
-		- use
+		- use 3 ema strategy
+			- The five. Moving average is denoted by the Green line.
+			- The ten. Moving average is muted by the red line.
+			- The Black Line is noted by the 20. Moving average.
 		-
 	-
 - ## Futures and options
