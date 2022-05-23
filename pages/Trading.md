@@ -14,6 +14,10 @@
 	- derived from the underlying
 	- ### Options
 		- Calls and Puts
-		-
+		- Call
+			- You are calling the market up.
+			- if market goes up you
+		- Put
+			- You are putting the market down.
 	- ### Futures
 		- Only futures.
