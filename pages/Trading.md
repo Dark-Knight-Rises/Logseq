@@ -15,7 +15,8 @@
 			- The ten. Moving average is muted by the red line.
 			- The Black Line is noted by the 20. Moving average.
 		-
--
+- ## Intraday
+	-
 - ## Futures and options
 	- we can get leverage
 	- derived from the underlying
