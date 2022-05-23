@@ -14,11 +14,14 @@
 	- derived from the underlying
 	- ### Options
 		- Calls and Puts
-		- Call
+		- Call (buy)
 			- You are calling the market up.
 			- if market goes up you make money
-		- Put
+		- Put (buy)
 			- You are putting the market down.
 			- if market goes down you make money.
+		- Call (sell)
+			- You are calling the market up.
+			- if market goes up you make money
 	- ### Futures
 		- Only futures.
