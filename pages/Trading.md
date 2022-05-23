@@ -5,7 +5,10 @@
 		- 44 moving average
 		- select the stocks which have rising 44 day ma
 	- Trade
-		- Draw Channel in 1 hour time frame to calculate support and resistance
+		- Apply 3d charting
+			- Weekly
+			- Daily
+			- Hourly
 		- Pick the parallel channel tool and draw the channel
 		- use 3 ema strategy
 			- The five. Moving average is denoted by the Green line.
