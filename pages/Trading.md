@@ -16,8 +16,9 @@
 		- Calls and Puts
 		- Call
 			- You are calling the market up.
-			- if market goes up you
+			- if market goes up you make money
 		- Put
 			- You are putting the market down.
+			- if market goes down you make money.
 	- ### Futures
 		- Only futures.
