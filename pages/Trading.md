@@ -11,6 +11,8 @@
 	-
 - ## Futures and options
 	- we can get leverage
+	- derived from the underlying
 	- ### Options
-		-
+		- Calls and Puts
 	- ### Futures
+		- Only futures.
