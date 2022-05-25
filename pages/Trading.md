@@ -10,6 +10,8 @@
 				- draw support and resistance
 			- Daily
 				- Make trendline
+					- if it is in uptrend then focus only on buying
+					- vice-versa
 			- Hourly
 				- trade in this time frame
 				- use 3 ema strategy
