@@ -7,8 +7,12 @@
 	- Trade
 		- Apply 3d charting
 			- Weekly
+				- draw support and resistance
 			- Daily
+				- Make trendline
 			- Hourly
+				- trade in this time frame
+				-
 		- Pick the parallel channel tool and draw the channel
 		- use 3 ema strategy
 			- The five. Moving average is denoted by the Green line.
