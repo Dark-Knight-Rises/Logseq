@@ -16,8 +16,8 @@
 				- trade in this time frame
 				- use 3 ema strategy
 					- The 14 period Moving average is denoted by the Green line.
-					- The 21 Moving average is  by the red line.
-					- The Black Line is noted by the 20. Moving average.
+					- The 21 Moving average is denoted by the red line.
+					- The Black Line is noted by the 50 period Moving average.
 		-
 - ## Intraday
 	-
