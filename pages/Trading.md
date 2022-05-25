@@ -18,6 +18,10 @@
 					- The 14 period Moving average is denoted by the Green line.
 					- The 21 Moving average is denoted by the red line.
 					- The Black Line is noted by the 50 period Moving average.
+				- apply rsi on the chart to confirm the trades
+					- buy only when rsi is above 50
+					- vice-versa
+					-
 		-
 - ## Intraday
 	-
