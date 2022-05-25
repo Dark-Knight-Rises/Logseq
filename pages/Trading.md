@@ -12,12 +12,10 @@
 				- Make trendline
 			- Hourly
 				- trade in this time frame
-				-
-		- Pick the parallel channel tool and draw the channel
-		- use 3 ema strategy
-			- The five. Moving average is denoted by the Green line.
-			- The ten. Moving average is muted by the red line.
-			- The Black Line is noted by the 20. Moving average.
+				- use 3 ema strategy
+					- The five. Moving average is denoted by the Green line.
+					- The ten. Moving average is muted by the red line.
+					- The Black Line is noted by the 20. Moving average.
 		-
 - ## Intraday
 	-
