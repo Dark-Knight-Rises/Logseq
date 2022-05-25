@@ -1,6 +1,4 @@
 - ## Swing Trading
-	- Time frame
-		- Daily chart 1 day
 	- Stock selection on Weekends
 		- 44 moving average
 		- select the stocks which have rising 44 day ma
@@ -14,7 +12,7 @@
 					- vice-versa
 			- Hourly
 				- trade in this time frame
-				- use 3 ema strategy
+				- Use 3 ema strategy
 					- The 14 period Exponential Moving average is denoted by the Green line.
 					- The 21 Exponential Moving average is denoted by the red line.
 					- The Black Line is noted by the 50 period Exponential Moving average.
