@@ -118,4 +118,5 @@
 	- The length of the IPv4 address is {{cloze 32 bits}} #card
 	- What is the length of the IPv6 address? {{cloze The length of the IPv6 address is 128 bits.}} #card
 	- What is the port number of SMTP? {{cloze The port number of SMTP is 25.}} #card
-	- What does MIME stand for? {{cloze }}
+	- What does MIME stand for? {{cloze MIME stands for Multipurpose Internet Mail Extension.}} #card
+	- The port number of IMAP is {{cloze }}
