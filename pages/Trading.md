@@ -20,7 +20,8 @@
 					- buy only when rsi is above 50
 					- vice-versa
 				- Use Bollinger bands
-					- Check whether
+					- Check whether bbs are expanding and going in a trend and if they are then make a position
+					- vice
 - ## Intraday
 	-
 - ## Futures and options
