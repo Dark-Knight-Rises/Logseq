@@ -121,4 +121,5 @@
 	- What does MIME stand for? {{cloze MIME stands for Multipurpose Internet Mail Extension.}} #card
 	- The port number of IMAP is {{cloze 143}} #card
 	- The network device used to connect two dis-similar types of networks. {{cloze Gateway}} #card
+	- the device used to boost up a weak signal. {{cloze Repeater}} #card
 	-
