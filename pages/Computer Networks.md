@@ -111,4 +111,5 @@
 	- Identify the total versions of IP. {{cloze IP has 2 versions, IPV4 and IPV6.}} #card
 	- {{cloze ARPANET}} was the first network that was based on TCP/IP protocol. #card
 	- {{cloze SMTP}} is the most commonly used internet protocol. #card
-	- What does TCP/IP stand for?
+	- What does TCP/IP stand for? {{cloze TCP/IP stands for Transmission control protocol/Internet protocol.}} #card
+	-
