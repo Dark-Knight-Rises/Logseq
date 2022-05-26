@@ -1,6 +1,7 @@
-- ## Title :
-  template:: Books Template
+template:: Books Template
+
 	- Author :
+	-
 	- ### One Sentence Summary
 		-
 	- ### Three Key Lessons
