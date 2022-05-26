@@ -4,7 +4,7 @@
 	- ### Author :
 	- ### Quote :
 		- ""
-	- ### One Sentence Summary
+	- ### Summary
 		-
 	- ### Three Key Lessons
 		- 1.
@@ -15,8 +15,8 @@
 	- ### Author : Cal Newport
 	- ### Quote :
 		- "If you don't produce, you won't thrive --- no matter how skilled or talented you are"
-	- ### One Sentence Summary
-		- Deep Work proposes that we have lost our ability to focus deeply and immerse ourselves in a complex task, the ability to focus is now less than a
+	- ### Summary
+		- Deep Work proposes that we have lost our ability to focus deeply and immerse ourselves in a complex task, the ability to focus is now less than a goldfish i.e. 8 seconds.
 	- ### Three Key Lessons
 		- 1.
 		- 2.
