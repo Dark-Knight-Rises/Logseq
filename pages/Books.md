@@ -1,3 +1,9 @@
 - ## Title :
 	- Author :
+	-
 	- Three Key Lessons
+		- 1
+		- 2
+		- 3
+	-
+	-
