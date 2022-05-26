@@ -112,4 +112,6 @@
 	- {{cloze ARPANET}} was the first network that was based on TCP/IP protocol. #card
 	- {{cloze SMTP}} is the most commonly used internet protocol. #card
 	- What does TCP/IP stand for? {{cloze TCP/IP stands for Transmission control protocol/Internet protocol.}} #card
+	- Which of the following layer isn’t present in the TCP/IP model but is included in the OSI model? {{cloze The TCP/IP model does not contain a session layer.}} #card
+	- What is the collection of the hyperlinked document on the internet known as? {{cloze he collection of the hyperlinked document on the internet known as WWW.}} #card
 	-
