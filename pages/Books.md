@@ -11,3 +11,4 @@ template:: Books Template
 	- ### Thoughts
 -
 - {{renderer :smartblock, Books Template, New Smartblock, false}}
+-
