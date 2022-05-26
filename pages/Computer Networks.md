@@ -122,4 +122,6 @@
 	- The port number of IMAP is {{cloze 143}} #card
 	- The network device used to connect two dis-similar types of networks. {{cloze Gateway}} #card
 	- the device used to boost up a weak signal. {{cloze Repeater}} #card
+	- MAC stands for {{cloze Media Access Control.}} #card
+	- What is the length of the MAC address? {{cloze 48 bits.}} #card
 	-
