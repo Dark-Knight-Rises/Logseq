@@ -1,4 +1,5 @@
-- ## Title : {{renderer :smartblock, undefined, New Smartblock, true}}
+- ## Title :
+  background-color:: #497d46
 	- ### Author :
 	- ### One Sentence Summary
 		-
@@ -7,5 +8,4 @@
 		- 2.
 		- 3.
 	- ### Thoughts
--
 -
