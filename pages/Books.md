@@ -1,5 +1,4 @@
 - ## Title :
-  background-color:: #497d46
 	- ### Author :
 	- ### One Sentence Summary
 		-
