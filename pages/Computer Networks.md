@@ -105,4 +105,5 @@
 			- The physical layer is mainly used for the physical connection between the devices and such physical connection can be made by using twisted pair cable, fiber optic or wireless transmission media.
 -
 - ## MCQs
+	- What does PoP stand for? {{cloze PoP stands for Post Office Protocol}}
 	-
