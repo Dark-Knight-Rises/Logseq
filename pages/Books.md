@@ -1,2 +1,2 @@
-- Title {{renderer :smartblock, undefined, Books, false}}
--
+- ## Title
+	- Author
