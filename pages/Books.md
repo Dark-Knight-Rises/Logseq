@@ -28,7 +28,7 @@
 				- The journalistic approach. If you have a busy daily routine, this works well. What you do is to simply dedicate any, unexpected free time to deep work.
 		- Lesson 2
 			- Make the most of unproductive time with productive meditation.
-			- For example, if you’re taking the subway to work each morning, and know you have 30 minutes to and from work, in which you can’t do much else, use this time to try solving a complex problem in your mind.
+			- For example, if you have 30 minutes walk or travel, in which you can’t do much else, use this time to try solving a complex problem in your mind.
 		- Lesson 3
 			- Quit work at the same time each day, and stick to it.
 	- ### Thoughts
