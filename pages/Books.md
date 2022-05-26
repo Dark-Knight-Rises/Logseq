@@ -11,7 +11,8 @@
 	- ### Thoughts
 - ## Title : Deep Work
 	- ### Author : Cal Newport
-	- ### Quote : "If you don't produce "
+	- ### Quote : "If you don't produce, you won't thrive ---
+	  no matter how skilled or talented you are"
 	- ### One Sentence Summary
 		-
 	- ### Three Key Lessons
