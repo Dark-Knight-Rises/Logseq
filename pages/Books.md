@@ -7,9 +7,7 @@
 	- ### Summary
 		-
 	- ### Three Key Lessons
-		- 1.
-		- 2.
-		- 3.
+		-
 	- ### Thoughts
 - ## Title : Deep Work
 	- ### Author : Cal Newport
@@ -21,6 +19,7 @@
 		- Deep Work suggests that being able to completely immerse yourself in a complex task is a rare, valuable and meaningful skill.
 	- ### Three Key Lessons
 		- Use one of these four deep work strategies, but be intentional about it.
+			- The monastic approach. It means shutting yourself off completely, for example by moving to a cabin in the woods to write a novel, and not come back until it’s finished.
 			-
 	- ### Thoughts
 -
