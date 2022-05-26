@@ -11,16 +11,15 @@
 					- if it is in uptrend then focus only on buying
 					- vice-versa
 			- Hourly
-				- trade in this time frame
+				- Trade in this time frame
 				- Use 3 ema strategy
 					- The 14 period Exponential Moving average is denoted by the Green line.
 					- The 21 Exponential Moving average is denoted by the red line.
-					- the 50 period Exponential Moving average. is denoted by the Black Line is noted by
+					- the 50 period Exponential Moving average. is denoted by the Black Line.
 				- apply rsi on the chart to confirm the trades
 					- buy only when rsi is above 50
 					- vice-versa
 				-
-		-
 - ## Intraday
 	-
 - ## Futures and options
