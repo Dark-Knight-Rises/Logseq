@@ -1,5 +1,6 @@
 - ## Title : 
   template:: Books Template
+  collapsed:: true
 	- ### Author :
 	- ### Quote :
 	- ### One Sentence Summary
@@ -10,7 +11,7 @@
 		- 3.
 	- ### Thoughts
 - ## Title : Deep Work
-	- ### Author :
+	- ### Author : Cal Newport
 	- ### Quote :
 	- ### One Sentence Summary
 		-
@@ -19,4 +20,4 @@
 		- 2.
 		- 3.
 	- ### Thoughts
-	-
+-
