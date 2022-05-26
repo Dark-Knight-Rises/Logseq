@@ -16,7 +16,9 @@
 	- ### Quote :
 		- "If you don't produce, you won't thrive --- no matter how skilled or talented you are"
 	- ### Summary
-		- Deep Work proposes that we have lost our ability to focus deeply and immerse ourselves in a complex task, the ability to focus is now less than a goldfish i.e. 8 seconds.
+		- The proposes that we have lost our ability to focus deeply and immerse ourselves in a complex task
+		- The ability to focus is now less than a goldfish i.e. 8 seconds.
+		-
 	- ### Three Key Lessons
 		- 1.
 		- 2.
