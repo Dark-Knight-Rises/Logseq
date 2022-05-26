@@ -15,7 +15,7 @@
   :block/updated-at 1653028097154}
  {:block/name "books",
   :block/created-at 1653580642372,
-  :block/updated-at 1653583133760}
+  :block/updated-at 1653593603698}
  {:block/name "c",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -109,7 +109,7 @@
   :block/updated-at 1653590520554}
  {:block/name "may 27th, 2022",
   :block/created-at 1653590514086,
-  :block/updated-at 1653591285786}
+  :block/updated-at 1653593760309}
  {:block/name "may 6th, 2022",
   :block/created-at 1651778503680,
   :block/updated-at 1651956382445}
@@ -139,7 +139,7 @@
   :block/updated-at 1651766597622}
  {:block/name "trading",
   :block/created-at 1652879358622,
-  :block/updated-at 1653512527071}
+  :block/updated-at 1653593900647}
  {:block/name "wait",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
