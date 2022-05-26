@@ -1,6 +1,5 @@
 - ## Title :
   template:: Books Template
-  template-including-parent:: false
 	- Author :
 	- ### One Sentence Summary
 		-
@@ -9,4 +8,6 @@
 		- 2.
 		- 3.
 	- ### Thoughts
-		-
+	-
+-
+-
