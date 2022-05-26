@@ -1,4 +1,5 @@
 - ## Title :
+  template:: Books Template
 	- Author :
 	- ### One Sentence Summary
 		-
@@ -6,6 +7,5 @@
 		- 1.
 		- 2.
 		- 3.
-	-
-	-
-	-
+	- ### Thougts
+		-
