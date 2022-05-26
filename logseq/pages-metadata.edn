@@ -21,7 +21,7 @@
   :block/updated-at 1651954897455}
  {:block/name "computer networks",
   :block/created-at 1652182664379,
-  :block/updated-at 1653225317308}
+  :block/updated-at 1653567910247}
  {:block/name "contents",
   :block/created-at 1651766597622,
   :block/updated-at 1651766597622}
@@ -97,13 +97,13 @@
   :block/updated-at 1653244398313}
  {:block/name "may 23rd, 2022",
   :block/created-at 1653244204419,
-  :block/updated-at 1653405875020}
+  :block/updated-at 1653566249680}
  {:block/name "may 24th, 2022",
   :block/created-at 1653332472145,
   :block/updated-at 1653405573077}
  {:block/name "may 26th, 2022",
   :block/created-at 1653505982013,
-  :block/updated-at 1653512617677}
+  :block/updated-at 1653566702192}
  {:block/name "may 6th, 2022",
   :block/created-at 1651778503680,
   :block/updated-at 1651956382445}
