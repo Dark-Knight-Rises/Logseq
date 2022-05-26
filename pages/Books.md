@@ -7,7 +7,9 @@
 	- ### Summary
 		-
 	- ### Three Key Lessons
-		-
+		- Lesson 1
+		- Lesson 2
+		- Lesson 3
 	- ### Thoughts
 - ## Title : Deep Work
 	- ### Author : Cal Newport
@@ -25,7 +27,7 @@
 				- The rhythmic approach. This chunks down your work into time blocks, similar to the Pomodoro technique, and uses a calendar to track your progress.
 				- The journalistic approach. If you have a busy daily routine, this works well. What you do is to simply dedicate any, unexpected free time to deep work.
 		- Lesson 2
-		- Make the most of unproductive time with productive meditation.
+			- Make the most of unproductive time with productive meditation.
 			-
 	- ### Thoughts
 -
