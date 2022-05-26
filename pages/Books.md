@@ -1,6 +1,4 @@
-template:: Books Template
-
-	- ## Title :
+- ## Title : {{renderer :smartblockInline, }}
 	- ### Author :
 	- ### One Sentence Summary
 		-
@@ -9,6 +7,4 @@ template:: Books Template
 		- 2.
 		- 3.
 	- ### Thoughts
--
-- {{renderer :smartblock, Books Template, New Smartblock, false}}
 -
