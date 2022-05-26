@@ -1,7 +1,7 @@
 template:: Books Template
 
 	- ## Title :
-	- Author :
+	- ### Author :
 	- ### One Sentence Summary
 		-
 	- ### Three Key Lessons
@@ -10,4 +10,4 @@ template:: Books Template
 		- 3.
 	- ### Thoughts
 -
--
+- {{renderer :smartblock, Books Template, New Smartblock, false}}
