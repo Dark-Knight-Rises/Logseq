@@ -109,4 +109,6 @@
 	- What is the port number of PoP? {{cloze The ports number of PoP is 110}} #card
 	- Identify the layer which provides service to the user. {{cloze Application layer provides service to the user.}} #card
 	- Identify the total versions of IP. {{cloze IP has 2 versions, IPV4 and IPV6.}} #card
-	-
+	- {{cloze ARPANET}} was the first network that was based on TCP/IP protocol. #card
+	- {{cloze SMTP}} is the most commonly used internet protocol.
+-
