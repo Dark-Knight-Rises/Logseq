@@ -19,7 +19,6 @@
 				- apply rsi on the chart to confirm the trades
 					- buy only when rsi is above 50
 					- vice-versa
-				-
 - ## Intraday
 	-
 - ## Futures and options
