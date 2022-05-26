@@ -114,4 +114,5 @@
 	- What does TCP/IP stand for? {{cloze TCP/IP stands for Transmission control protocol/Internet protocol.}} #card
 	- Which of the following layer isn’t present in the TCP/IP model but is included in the OSI model? {{cloze The TCP/IP model does not contain a session layer.}} #card
 	- What is the collection of the hyperlinked document on the internet known as? {{cloze he collection of the hyperlinked document on the internet known as WWW.}} #card
+	- The port number of FTP is {{cloze 21.}} #card
 	-
