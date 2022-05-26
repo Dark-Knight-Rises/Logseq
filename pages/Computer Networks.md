@@ -115,4 +115,5 @@
 	- Which of the following layer isn’t present in the TCP/IP model but is included in the OSI model? {{cloze The TCP/IP model does not contain a session layer.}} #card
 	- What is the collection of the hyperlinked document on the internet known as? {{cloze he collection of the hyperlinked document on the internet known as WWW.}} #card
 	- The port number of FTP is {{cloze 21.}} #card
-	-
+	- The length of the IPv4 address is {{cloze 32 bits}} #card
+	- What is the length of the IPv6 address? {{cloze The length of the IPv6 address is 128 bits.}}
