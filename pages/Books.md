@@ -1,7 +1,7 @@
 - ## Title : Deep Work
   template:: Books Templates
-	- ### Author :
-	-
+	- ### Author : Cal Newport
+	- ### Quote :
 	- ### One Sentence Summary
 		-
 	- ### Three Key Lessons
@@ -9,4 +9,13 @@
 		- 2.
 		- 3.
 	- ### Thoughts
--
+- ## Title : Deep Work
+	- ### Author : Cal Newport
+	- ### Quote :
+	- ### One Sentence Summary
+		-
+	- ### Three Key Lessons
+		- 1.
+		- 2.
+		- 3.
+	- ### Thoughts
