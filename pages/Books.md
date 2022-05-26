@@ -1,4 +1,4 @@
-- ## Title :
+- ## Title : Deep Work
   template:: Books Templates
 	- ### Author :
 	- ### One Sentence Summary
@@ -8,12 +8,4 @@
 		- 2.
 		- 3.
 	- ### Thoughts
-- ## Title :
-	- ### Author :
-	- ### One Sentence Summary
-		-
-	- ### Three Key Lessons
-		- 1.
-		- 2.
-		- 3.
-	- ### Thoughts
+-
