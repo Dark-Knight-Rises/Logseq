@@ -21,7 +21,7 @@
 					- vice-versa
 				- Use Bollinger bands
 					- Check whether bbs are expanding and going in a trend and if they are then make a position
-					- vice
+					- vice-versa
 - ## Intraday
 	-
 - ## Futures and options
