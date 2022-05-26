@@ -127,4 +127,4 @@
 	- The device is used in the network layer? {{cloze Router}} #card
 	- Identify if the following statement is True or False: Network Interface Card(NIC) is an I/O device. {{cloze true}} #card
 	- What is required to use a Simple Network Management System? {{cloze Rules are required to use a Simple Network Management System.}} #card
-	-
+	- Rhe device which links two homogeneous packed broadcast local networks.
