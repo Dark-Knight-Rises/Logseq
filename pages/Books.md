@@ -19,10 +19,8 @@
 		- The book proposes that we have lost our ability to focus deeply and immerse ourselves in a complex task
 		- The ability to focus is now less than a goldfish i.e. 8 seconds.
 		- Deep Work suggests that being able to completely immerse yourself in a complex task is a rare, valuable and meaningful skill.
-		-
 	- ### Three Key Lessons
-		- 1. Use one of these four deep work strategies, but be intentional about it.
-		- 2.
-		- 3.
+		- Use one of these four deep work strategies, but be intentional about it.
+			-
 	- ### Thoughts
 -
