@@ -124,4 +124,6 @@
 	- the device used to boost up a weak signal. {{cloze Repeater}} #card
 	- MAC stands for {{cloze Media Access Control.}} #card
 	- What is the length of the MAC address? {{cloze 48 bits.}} #card
+	- The device is used in the network layer? {{cloze Router}} #card
+	- Identify if the following statement is True or False: Network Interface Card(NIC) is an I/O device. {{cloze true}} #card
 	-
