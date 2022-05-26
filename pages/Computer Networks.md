@@ -107,4 +107,5 @@
 - ## MCQs
 	- What does PoP stand for? {{cloze PoP stands for Post Office Protocol}} #card
 	- What is the port number of PoP? {{cloze The ports number of PoP is 110}} #card
--
+	- Identify the layer which provides service to the user. {{cloze Application layer provides service to the user.}} #card
+	-
