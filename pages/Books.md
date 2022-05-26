@@ -1,4 +1,4 @@
-- ## Title : {{renderer :smartblockInline, }}
+- ## Title : {{renderer :smartblock, undefined, New Smartblock, true}}
 	- ### Author :
 	- ### One Sentence Summary
 		-
@@ -7,4 +7,5 @@
 		- 2.
 		- 3.
 	- ### Thoughts
+-
 -
