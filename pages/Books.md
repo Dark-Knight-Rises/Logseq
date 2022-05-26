@@ -21,7 +21,7 @@
 		- Deep Work suggests that being able to completely immerse yourself in a complex task is a rare, valuable and meaningful skill.
 		-
 	- ### Three Key Lessons
-		- 1.
+		- 1. Use one of these four deep work strategies, but be intentional about it.
 		- 2.
 		- 3.
 	- ### Thoughts
