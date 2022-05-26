@@ -20,6 +20,7 @@
 	- ### Three Key Lessons
 		- Use one of these four deep work strategies, but be intentional about it.
 			- The monastic approach. It means shutting yourself off completely, for example by moving to a cabin in the woods to write a novel, and not come back until it’s finished.
+			- The bimodal approach. This prioritizes deep work above everything else. You could set a 4-6 hour block each day for deep work.
 			-
 	- ### Thoughts
 -
