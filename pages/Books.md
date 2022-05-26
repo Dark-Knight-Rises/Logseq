@@ -16,7 +16,7 @@
 	- ### Quote :
 		- "If you don't produce, you won't thrive --- no matter how skilled or talented you are"
 	- ### One Sentence Summary
-		-
+		- Deep Work proposes that we have lost our ability to focus deeply and immerse ourselves in a complex task, showing you how to cultivate this skill again and focus more than ever before with four simple rules.
 	- ### Three Key Lessons
 		- 1.
 		- 2.
