@@ -20,7 +20,7 @@
 					- buy only when rsi is above 50
 					- vice-versa
 				- Use Bollinger bands
-					- Check weather
+					- Check whether
 - ## Intraday
 	-
 - ## Futures and options
