@@ -1,9 +1,11 @@
 - ## Title :
 	- Author :
-	-
-	- Three Key Lessons
-		- 1
-		- 2
-		- 3
+	- ### One Sentence Summary
+		-
+	- ### Three Key Lessons
+		- 1.
+		- 2.
+		-
+		-
 	-
 	-
