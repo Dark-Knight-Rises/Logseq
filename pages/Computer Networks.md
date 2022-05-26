@@ -116,4 +116,6 @@
 	- What is the collection of the hyperlinked document on the internet known as? {{cloze he collection of the hyperlinked document on the internet known as WWW.}} #card
 	- The port number of FTP is {{cloze 21.}} #card
 	- The length of the IPv4 address is {{cloze 32 bits}} #card
-	- What is the length of the IPv6 address? {{cloze The length of the IPv6 address is 128 bits.}}
+	- What is the length of the IPv6 address? {{cloze The length of the IPv6 address is 128 bits.}} #card
+	- What is the port number of SMTP? {{cloze The port number of SMTP is 25.}} #card
+	- What does MIME stand for? {{cloze }}
