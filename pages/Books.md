@@ -1,8 +1,7 @@
 - ## Title : 
   template:: Books Template
-  collapsed:: true
 	- ### Author :
-	- ### Quote :
+	- ### Quote : ""
 	- ### One Sentence Summary
 		-
 	- ### Three Key Lessons
@@ -12,7 +11,7 @@
 	- ### Thoughts
 - ## Title : Deep Work
 	- ### Author : Cal Newport
-	- ### Quote :
+	- ### Quote : "If you don't produce "
 	- ### One Sentence Summary
 		-
 	- ### Three Key Lessons
