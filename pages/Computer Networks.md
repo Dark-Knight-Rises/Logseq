@@ -99,16 +99,13 @@
 			- Physical layer transmits the data either in the form of electrical, optical, or mechanical form.
 			- The physical layer is mainly used for the physical connection between the devices and such physical connection can be made by using twisted pair cable, fiber optic or wireless transmission media.
 - ## Network Devices
-	-
+	- Pure Hard
 -
 - ## MCQs
 	- What does PoP stand for? {{cloze PoP stands for Post Office Protocol}} #card
-	- What is the port number of PoP? {{cloze The ports number of PoP is 110}} #card
 	- Identify the layer which provides service to the user. {{cloze Application layer provides service to the user.}} #card
-	- Identify the total versions of IP. {{cloze IP has 2 versions, IPV4 and IPV6.}} #card
 	- {{cloze ARPANET}} was the first network that was based on TCP/IP protocol. #card
 	- {{cloze SMTP}} is the most commonly used internet protocol. #card
-	- What does TCP/IP stand for? {{cloze TCP/IP stands for Transmission control protocol/Internet protocol.}} #card
 	- What is the collection of the hyperlinked document on the internet known as? {{cloze he collection of the hyperlinked document on the internet known as WWW.}} #card
 	- The length of the IPv4 address is {{cloze 32 bits}} #card
 	- What is the length of the IPv6 address? {{cloze The length of the IPv6 address is 128 bits.}} #card
