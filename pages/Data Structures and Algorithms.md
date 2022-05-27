@@ -16,4 +16,6 @@
 		- When data is transferred asynchronously.
 		- It is also used for load balancing.
 - ## MCQs
+	- Best time complexity in a worst case scenario of a Sorting algorithm
+		- Merge Sort O(n*logn)
 	-
