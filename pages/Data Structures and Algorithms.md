@@ -18,4 +18,5 @@
 - ## MCQs
 	- Best time complexity in a worst case scenario of a Sorting algorithm
 		- Merge Sort O(n*logn)
-	-
+	- Name the algorithm which is used to find the shortest path from a source node to all other nodes in a weighted graph.
+		- Djikstra's Algorithm
