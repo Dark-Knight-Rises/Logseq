@@ -11,4 +11,5 @@
 		- Abstract data type means the representation of the data as well as some operations on that data.
 		- The operations include display, add, append, insert, delete, search, get, SET Max, Min. Reverse, shift, rotate.
 - ## Queues
-	-
+	- What are the applications of queue data structure?
+		-
