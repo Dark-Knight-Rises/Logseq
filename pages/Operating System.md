@@ -68,4 +68,8 @@
 		- <ins>Mutual Exclusion</ins>If a process is executing in the critical section, then no other process should be allowed to enter in the critical section.
 		- <ins>Progress</ins>If no process is executing in the critical section. Then the decision of a process to enter a critical section cannot be made by any other process that is executing in its remember section.
 		- <ins>Bounded Waiting</ins>There exists a bound on the number of times other processes can enter into the critical section after a process has made a request to access the critical section and before the request is granted.
+- ## MCQs
+	- RAID stands for {{cloze stands for Redundant Array of Independent Disks. It is used to store the
+	  same data redundantly to improve the overall performance. There are 7 RAID
+	  levels.}}
 -
