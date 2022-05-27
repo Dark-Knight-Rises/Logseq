@@ -64,3 +64,4 @@
 	- The portion of the code in the program in which the shared variables are accessed and/or updated is known as {{cloze Critical Section}}
 	- The remainder section is the portion of the code in the program excluding the critical section.
 	- The final output of the code depends upon the order in which variables are accessed. It is known as {{cloze The Race Around Condition}}
+	-
