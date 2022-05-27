@@ -61,5 +61,6 @@
 	- Multilevel Feedback Queue (MLFQ) Scheduling
 		- It allows the process to move in between queues. The idea is to separate processes according to the characteristics of their CPU bursts. If a process uses too much CPU time, it is moved to a lower-priority queue.
 - ## Critical Section Problem
-	- The portion of the code in the program in which the shared variables are accessed and/or updated.
+	- The portion of the code in the program in which the shared variables are accessed and/or updated is known as {{cloze Critical Section}}
+	- The remai
 	-
