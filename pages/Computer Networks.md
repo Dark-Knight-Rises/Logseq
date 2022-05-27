@@ -113,7 +113,8 @@
 	- Pure Software
 	- Hardware and Software
 		- Bridges
-			- Used for connecting
+			- Used for connecting two different LANs for example, connecting a total ring network with a total bus network.
+			-
 		- Switches
 		- Routers
 -
