@@ -116,8 +116,8 @@
 			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)) and ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
 			- Used for connecting two different LANs for example, connecting a total ring network with a total bus network.
 			- Does Forwarding and <ins>Filtering</ins> of the data
-		- Switches
 		- Routers
+		- Switches
 	- Pure Software
 -
 - ## MCQs
