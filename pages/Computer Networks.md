@@ -94,6 +94,7 @@
 				- Link management.
 					- Datalink layer managers the initiation, maintenance and termination of the link between the source and destination for the effective exchange of data.
 		- Physical Layer.
+		  id:: 628fcdb2-8220-4446-ba41-17b8942e165c
 			- It is the lowest layer of OSI reference model.
 			- It is used for the transmission of an unstructured raw bitstream over a physical medium.
 			- Physical layer transmits the data either in the form of electrical, optical, or mechanical form.
@@ -102,6 +103,7 @@
 	- Pure Hardware
 		- Cables
 		- Repeaters
+			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c))
 		- Hubs
 	- Pure Software
 	- Hardware and Software
