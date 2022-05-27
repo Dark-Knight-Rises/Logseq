@@ -7,6 +7,7 @@
   card-last-score:: 5
 	- A network is a collection of devices connected to each other to allow sharing of data. #defination
 - ## Types of network topology. {{cloze 6}} types
+  collapsed:: true
 	- STAR
 		- Start topology is a network topology in which all the nodes are connected to a single device known as central device.
 		- Start topology requires more cable. As compared to other top topologies and therefore it is more robust. Because if a single cable is failed. Then the entire network is not compromised.
@@ -37,6 +38,7 @@
 		- As the name suggests. The hybrid topology is a combination of different topologies.
 		- It provides flexibility.
 - ## OSI (Open System Interconnections)
+  collapsed:: true
 	- It is a network architecture model based on the ISO standards.
 	- It is called the OSI model as it deals with connecting the systems that are open for communication with other systems.
 	- ### The OSI model has seven layers.
@@ -119,7 +121,7 @@
 			- Does Forwarding and <ins>Filtering</ins> of the data
 		- Routers
 			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)) , ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160)) and ((628fcdb2-516d-437c-b95e-3701a23e94d2))
-			- Forwards data packets between computer networks, connects two LANs, WANs or a LAN with its ISP.
+			- Forwards data packets between computer networks, connects two different LANs, WANs or a LAN with its ISP.
 		- Switches
 			- Works on ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
 			- It is a Multi-Port Bridge
