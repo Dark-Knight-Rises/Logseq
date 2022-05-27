@@ -63,4 +63,4 @@
 - ## Critical Section Problem
 	- The portion of the code in the program in which the shared variables are accessed and/or updated is known as {{cloze Critical Section}}
 	- The remainder section is the portion of the code in the program excluding the critical section.
-	-
+	- Race Around Condition
