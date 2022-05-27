@@ -73,4 +73,4 @@
 	- Fragmentation is the phenomena of {{cloze memory wastage. It reduces the capacity and performance because space is used inefficiently}}
 		- Internal fragmentation. It occurs when we deal with the systems that have fixed size allocation units.
 		- External fragmentation. It occurs when we deal with systems that have variable sized allocation units.
-	-
+	- What is Spooling? {{cloze a process in which data is temporarily gathered to be used and executed by a device program or the system It is used with printing}}
