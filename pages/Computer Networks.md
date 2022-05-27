@@ -98,6 +98,8 @@
 			- It is used for the transmission of an unstructured raw bitstream over a physical medium.
 			- Physical layer transmits the data either in the form of electrical, optical, or mechanical form.
 			- The physical layer is mainly used for the physical connection between the devices and such physical connection can be made by using twisted pair cable, fiber optic or wireless transmission media.
+- ## Network Devices
+	-
 -
 - ## MCQs
 	- What does PoP stand for? {{cloze PoP stands for Post Office Protocol}} #card
