@@ -43,7 +43,6 @@
 		- A Penguin said that nobody drinks Pepsi. #mnemonic
 		- Application layer.
 			- Application layer enables the user to access the network.
-			- It is the topmost layer of the OSI reference model.
 			- Application layer protocols are file transfer protocol, simple mail transfer protocol, domain name system, etc.
 			- The most widely used application protocol is HTTP (Hypertext transfer protocol ). A user sends the request for the web page using HTTP
 		- Presentation layer.
