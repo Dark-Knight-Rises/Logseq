@@ -15,3 +15,5 @@
 		- It is useful when a resource is shared among multiple consumers.
 		- When data is transferred asynchronously.
 		- It is also used for load balancing.
+- ## MCQs
+	-
