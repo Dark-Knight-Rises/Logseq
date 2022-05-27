@@ -111,7 +111,6 @@
 			- It is a Multi-Port Repeater
 			- Also does forwarding of data and, does not provides <ins>Filtering</ins> functionality.
 		- Cables
-	- Pure Software
 	- Hardware and Software
 		- Bridges
 			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)) and ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
@@ -119,6 +118,7 @@
 			-
 		- Switches
 		- Routers
+		- Pure Software
 -
 - ## MCQs
 	- What does PoP stand for? {{cloze PoP stands for Post Office Protocol}} #card
