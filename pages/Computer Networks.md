@@ -105,7 +105,7 @@
 		- Repeaters
 			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c))
 			- Regenerates the strength of the signal. Restores the original strength.
-			-
+			- A 2 port device, does forwarding of data and
 		- Hubs
 	- Pure Software
 	- Hardware and Software
