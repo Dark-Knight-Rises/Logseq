@@ -122,7 +122,9 @@
 			-
 		- Switches
 			- Works on ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
-			- It is a Mul
+			- It is a Multi-Port Bridge
+			- Full Duplex links
+			- Collision Domain is 0 and
 	- Pure Software
 -
 - ## MCQs
