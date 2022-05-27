@@ -104,7 +104,8 @@
 		- Cables
 		- Repeaters
 			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c))
-			- Regenerates the strength of the signal.
+			- Regenerates the strength of the signal. Restores the original strength.
+			-
 		- Hubs
 	- Pure Software
 	- Hardware and Software
