@@ -71,4 +71,6 @@
 - ## MCQs
 	- RAID stands for {{cloze Redundant Array of Independent Disks. It is used to store the same data redundantly to improve the overall performance. There are 7 RAID levels. }}
 	- Fragmentation is the phenomena of {{cloze memory wastage. It reduces the capacity and performance because space is used inefficiently}}
--
+		- Internal fragmentation. It occurs when we deal with the systems that have fixed size allocation units.
+		- External fragmentation. It occurs when we deal with systems that have variable sized allocation units.
+	-
