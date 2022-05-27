@@ -78,6 +78,4 @@
 	- What is Spooling?
 		- A process in which data is temporarily gathered to be used and executed by a device, program or the system. It is used with printing. When different applications send output to the printer at the same time, spooling keeps these all jobs into a disk file and use them accordingly to the printer
 	- What is Starvation?
-		- is Resource management problem. In this problem, a waiting process
-		  does not get the resources it needs for a long time because the resources are
-		  being allocated to other processes.
+		- It is a Resource management problem. In this problem, a waiting process does not get the resources it needs for a long time because the resources are being allocated to other processes.
