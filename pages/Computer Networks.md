@@ -119,7 +119,7 @@
 			- Does Forwarding and <ins>Filtering</ins> of the data
 		- Routers
 			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)) , ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160)) and ((628fcdb2-516d-437c-b95e-3701a23e94d2))
-			- Forwards data packets between cso
+			- Forwards data packets between computer networks,
 		- Switches
 			- Works on ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
 			- It is a Multi-Port Bridge
