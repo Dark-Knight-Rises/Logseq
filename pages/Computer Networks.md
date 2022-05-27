@@ -124,7 +124,7 @@
 			- Works on ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
 			- It is a Multi-Port Bridge
 			- Full Duplex links
-			- Collision Domain is 0 and
+			- Collision Domain is 0 and Traffic is minimal
 	- Pure Software
 -
 - ## MCQs
