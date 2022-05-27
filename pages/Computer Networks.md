@@ -117,6 +117,7 @@
 			- Used for connecting two different LANs for example, connecting a total ring network with a total bus network.
 			- Does Forwarding and <ins>Filtering</ins> of the data
 		- Routers
+			- Works on
 		- Switches
 	- Pure Software
 -
