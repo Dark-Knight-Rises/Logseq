@@ -108,7 +108,7 @@
 		- Hubs
 			- Also works on ((628fcdb2-8220-4446-ba41-17b8942e165c))
 			- It is a Multi-Port Repeater
-			-
+			- Also does forwarding of data and, does not provides <ins>Filtering</ins> functionality.
 		- Cables
 	- Pure Software
 	- Hardware and Software
