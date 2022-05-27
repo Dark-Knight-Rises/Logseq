@@ -106,7 +106,8 @@
 			- Regenerates the strength of the signal. Restores the original strength.
 			- A 2 port device, does forwarding of data and, does not provides <ins>Filtering</ins> functionality.
 		- Hubs
-			- Also Works on ((628fcdb2-8220-4446-ba41-17b8942e165c))
+			- Also works on ((628fcdb2-8220-4446-ba41-17b8942e165c))
+			- It is a Multi-Port Repeater
 		- Cables
 	- Pure Software
 	- Hardware and Software
