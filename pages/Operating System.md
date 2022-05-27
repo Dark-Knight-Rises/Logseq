@@ -84,3 +84,6 @@
 		- Thrashing is a phenomenon in virtual memory schemes when the processor spends most of its time in swapping pages, rather than executing instructions.
 	- What are the advantages of multithreaded programming?
 		- Enhance the responsiveness to the user
+		- Resource sharing within the process.
+		- Economical
+		- Completely utilize the multiprocessing architecture.
