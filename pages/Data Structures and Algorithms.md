@@ -12,4 +12,6 @@
 		- The operations include display, add, append, insert, delete, search, get, SET Max, Min. Reverse, shift, rotate.
 - ## Queues
 	- What are the applications of queue data structure?
-		-
+		- It is useful when a resource is shared among multiple consumers.
+		- When data is transferred asynchronously.
+		- It is also used for load balancing.
