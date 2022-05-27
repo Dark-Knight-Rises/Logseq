@@ -80,4 +80,5 @@
 	- What is Starvation?
 		- It is a Resource management problem. In this problem, a waiting process does not get the resources it needs for a long time because the resources are being allocated to other processes.
 		- {{cloze Aging}} is a technique used to avoid starvation in the resource scheduling system.
--
+	- What is Thrashing?
+		- Thrashing is a phenomenon in virtual memory schemes when the processor spends most of its time in swapping pages, rather than executing instructions.
