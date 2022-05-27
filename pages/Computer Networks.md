@@ -118,7 +118,7 @@
 			-
 		- Switches
 		- Routers
-		- Pure Software
+	- Pure Software
 -
 - ## MCQs
 	- What does PoP stand for? {{cloze PoP stands for Post Office Protocol}} #card
