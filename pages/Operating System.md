@@ -82,3 +82,5 @@
 		- {{cloze Aging}} is a technique used to avoid starvation in the resource scheduling system.
 	- What is Thrashing?
 		- Thrashing is a phenomenon in virtual memory schemes when the processor spends most of its time in swapping pages, rather than executing instructions.
+	- What are the advantages of multithreaded programming?
+		- Enhance the responsiveness to the user
