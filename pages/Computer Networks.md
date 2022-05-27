@@ -128,4 +128,3 @@
 	- Identify if the following statement is True or False: Network Interface Card(NIC) is an I/O device. {{cloze true}} #card
 	- What is required to use a Simple Network Management System? {{cloze Rules are required to use a Simple Network Management System.}} #card
 	- The device which links two homogeneous packed broadcast local networks. {{cloze Bridge is used to link two homogeneous packed broadcast local networks.}} #card
-	-
