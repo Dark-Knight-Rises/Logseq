@@ -123,7 +123,7 @@
 		- Switches
 			- Works on ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
 			- It is a Multi-Port Bridge
-			- Full Duplex links
+			- Full Duplex links ie A node can send message to the switch and switch can send message to
 			- Collision Domain is 0 and Traffic is minimal
 	- Pure Software
 -
