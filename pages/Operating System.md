@@ -65,6 +65,6 @@
 	- The remainder section is the portion of the code in the program excluding the critical section.
 	- The final output of the code depends upon the order in which variables are accessed. It is known as {{cloze The Race Around Condition}}
 	- ### A solution for the critical section problem must satisfy three conditions:
-		- <ins>Mutual Exclusion</ins>if a process is executing in the critical section, then no other process should be allowed to enter in the critical section.
-		- <ins>Progress</ins>
+		- <ins>Mutual Exclusion</ins>If a process is executing in the critical section, then no other process should be allowed to enter in the critical section.
+		- <ins>Progress</ins>If no process is executing in the critical section. Then the decision of a process to enter a critical section cannot be made by any other process that is executing in its remember section.
 -
