@@ -118,11 +118,13 @@
 			- Used for connecting two different LANs for example, connecting a total ring network with a total bus network.
 			- Does Forwarding and <ins>Filtering</ins> of the data
 		- Routers
-			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)), ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160)) and ((628fcdb2-516d-437c-b95e-3701a23e94d2))
+			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)) , ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160)) and ((628fcdb2-516d-437c-b95e-3701a23e94d2))
+			-
 		- Switches
 	- Pure Software
 -
 - ## MCQs
+  collapsed:: true
 	- What does PoP stand for? {{cloze PoP stands for Post Office Protocol}} #card
 	- Identify the layer which provides service to the user. {{cloze Application layer provides service to the user.}} #card
 	- {{cloze ARPANET}} was the first network that was based on TCP/IP protocol. #card
