@@ -79,6 +79,7 @@
 				- Fragmentation.
 					- It is a process of dividing the packets into fragments.
 		- Datalink layer.
+		  id:: 628fcdb2-e10c-4ec4-b9b0-0ee6736bd160
 			- It is used for transferring the data from one node to another node.
 			- It receives the data from the network layer and converts the data into data frames and then attaches the physical address to these frames which are sent to the physical layer.
 			- It enables the error free transfer of data from one node to another node.
@@ -113,6 +114,7 @@
 	- Pure Software
 	- Hardware and Software
 		- Bridges
+			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)) and ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160))
 			- Used for connecting two different LANs for example, connecting a total ring network with a total bus network.
 			-
 		- Switches
