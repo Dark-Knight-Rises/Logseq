@@ -65,6 +65,7 @@
 				- Connectionless transmission.
 					- In this transmission, the receiver does not send the acknowledgment to the sender.
 		- Network layer.
+		  id:: 628fcdb2-516d-437c-b95e-3701a23e94d2
 			- Network layer converts the logical address into the physical address.
 			- The routing concept means it determines the best route for the packet to travel from.
 			- Functions of network layer.
@@ -117,7 +118,7 @@
 			- Used for connecting two different LANs for example, connecting a total ring network with a total bus network.
 			- Does Forwarding and <ins>Filtering</ins> of the data
 		- Routers
-			- Works on
+			- Works on ((628fcdb2-8220-4446-ba41-17b8942e165c)), ((628fcdb2-e10c-4ec4-b9b0-0ee6736bd160)) and ((628fcdb2-516d-437c-b95e-3701a23e94d2))
 		- Switches
 	- Pure Software
 -
