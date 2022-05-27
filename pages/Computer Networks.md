@@ -113,6 +113,7 @@
 	- Pure Software
 	- Hardware and Software
 		- Bridges
+			- Used for connecting
 		- Switches
 		- Routers
 -
