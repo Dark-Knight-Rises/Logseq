@@ -67,4 +67,5 @@
 	- ### A solution for the critical section problem must satisfy three conditions:
 		- <ins>Mutual Exclusion</ins>If a process is executing in the critical section, then no other process should be allowed to enter in the critical section.
 		- <ins>Progress</ins>If no process is executing in the critical section. Then the decision of a process to enter a critical section cannot be made by any other process that is executing in its remember section.
+		- <ins>Bounded Waiting</ins>
 -
