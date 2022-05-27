@@ -64,7 +64,7 @@
 	- The portion of the code in the program in which the shared variables are accessed and/or updated is known as {{cloze Critical Section}}
 	- The remainder section is the portion of the code in the program excluding the critical section.
 	- The final output of the code depends upon the order in which variables are accessed. It is known as {{cloze The Race Around Condition}}
-	- ### A solution for the critical section problem must satisfy the following three conditions:
+	- ### A solution for the critical section problem must satisfy three conditions:
 		- <ins>Mutual Exclusion</ins>if a process is executing in the critical section, then no other process should be allowed to enter in the critical section.
-		-
+		- <ins>Progress</ins>
 -
